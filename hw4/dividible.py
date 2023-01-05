@@ -12,7 +12,7 @@ while kek:
             for x in numbers:
                 if x%i == 0:
                     count = count + 1         #Каунт зупиняє програму шоб вона виводила тільки перші 10 чисел у рядок
-                    print(f"{x:3}", end=',')
+                    print(f"{x:3},", end=' ')
                 if count == 10:
                     break
             kek = False
