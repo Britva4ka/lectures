@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "index": "row 1",
+            "col 1": "a",
+            "col 2": "b"
+        },
+        {
+            "index": "row 2",
+            "col 1": "c",
+            "col 2": "d"
+        }
+    ]
+}
