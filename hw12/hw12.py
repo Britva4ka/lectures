@@ -31,6 +31,9 @@ class Vector():
 assert Vector(1, 2, 3).scal_dod(Vector(6, 3, 2)) == 18
 assert Vector(1, 2, 3).vec_dod(Vector(6, 3, 2)) == Vector(-5, 16, -9)
 assert Vector(-5, 16, -9).magnitude() == 19.03
+
+
+
 #task2
 """
 Реальзувати метод підрахунку довжин ліній. зробити метод компаре, який буде зрівнювати лінії і казатит яка довша
@@ -50,7 +53,7 @@ class Line():
         self.p1 = point1
         self.p2 = point2
     def __str__(self):
-        return f'({p1},{p2})'
+        return f'({self.p1},{self.p2})'
     def __eq__(self, other):
         if self.p1 == other.p1 and self.p2 == other.p2:
             return True
@@ -63,13 +66,11 @@ class Line():
         elif self.length() < other.length():
             return other
         else: return None
-p1 = Point(1, 4)
-p2 = Point(2, 9)
-p3 = Point(3, 13)
-line = Line(p1, p2)
-line2 = Line(p1, p3)
-print(line.compare(line2))
+
 assert Line(Point(1,4),Point(2,9)).compare(Line(Point(1,4),Point(3,13))) == Line(Point(1,4),Point(3,13))
+
+
+
 #task3
 """
 В відриві від проекту обміника написати програму через класс, яка складає сумму декількох валют та виводить у іншій.
@@ -77,14 +78,55 @@ assert Line(Point(1,4),Point(2,9)).compare(Line(Point(1,4),Point(3,13))) == Line
 """
 
 class Currency():
-    pass
+    def __init__(self, x:int=0 ,y:int=0, z:int=0, t:int=0):
+        self.bank = {'uah': x, 'usd': y, 'eur': z, 'pln': t}
+        # self.uah = x
+        # self.usd = y
+        # self.eur = z
+        # self.pln = t
+    def __eq__(self, other):
+        if self.show_equivalent() == other.show_equivalent():
+            return True
+        else: return False
+    def __str__(self):
+        return f'{self.bank}'
+    def __add__(self, other):
+        x = self.bank['uah'] + other.bank['uah']
+        y = self.bank['usd'] + other.bank['usd']
+        z = self.bank['eur'] + other.bank['eur']
+        t = self.bank['pln'] + other.bank['pln']
+        return Currency(x, y, z, t)
+    def show_all(self):
+        return f'Hryvnas: {self.bank["uah"]}, Dollars: {self.bank["usd"]}, Euros: {self.bank["eur"]}, Zloti: {self.bank["pln"]}'
+    def show_one(self, key:str='uah'):
+        return self.bank[key.lower()]
+    def show_equivalent(self, key:str='uah', course:dict={"USD": 40, "EUR": 36, "PLN": 6}) -> float:
+        eq_uah = 0
+        # course = {
+        #     "USD": 40,
+        #     "EUR": 36,
+        #     "PLN": 6
+        # }
+        for x, y in self.bank.items():
+            if x == 'uah':
+                eq_uah += y
+            else :
+                eq_uah += y*course[x.upper()]
+        if key == 'uah':
+            return round(eq_uah, 2)
+        else:
+            return round(eq_uah/course[key.upper()], 2)
 
-# my_saving = Currency(33, 100, 200, 100)# 4 наших валюти
-# my_saving.summary() - виводить мій банк в різних валютах як є
-# my_saving.UAH - скільки окрмої валюти
-# my_saving.eqvival("UAH") - 33, 100, 200, 100 - загалом в гривнях\чи інших з 4
-# my_saving == your_saving - true якщо сумми в еквіваленті рівні
-# my_saving + your_saving ....
+
+lol=Currency(33, 100, 200, 100)
+assert lol.show_all() == "Hryvnas: 33, Dollars: 100, Euros: 200, Zloti: 100"
+assert lol.show_one('usd') == 100
+assert lol.show_equivalent('eur') == 328.69
+assert bool(lol==Currency(33, 100, 200, 100)) == True
+assert bool(lol==Currency(32, 100, 199, 100)) == False
+assert lol + Currency(20, 10, 15, 12) == Currency(53, 110, 215, 112)
+
+
 
 #task4
 """

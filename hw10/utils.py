@@ -1,10 +1,20 @@
 import json
 
-def get_curr_course(path="currency_course.json"):
+def get_curr_course(path:str="currency_course.json") -> dict :
+    """
+    returns curr course json in dictionary type.
+    :param path:
+    :return:
+    """
     with open(path, 'r') as file:
         return json.load(file)
 
 def tablo(course: dict) -> str:
+    """
+    Returns the table with information about course and currency.
+    :param course:
+    :return:
+    """
     tablica = (f'\t{"BUY":*<13}{"UAH":*^6}{"SELL":*>13}\n\t')
     for cur in course['UAH']['buy']:
             tablica += (f'{course["UAH"]["buy"][cur]:-<13.2f}{cur:-^6}{course["UAH"]["sell"][cur]:->13.2f}\n\t')
@@ -12,7 +22,15 @@ def tablo(course: dict) -> str:
     return tablica
 
 
-def bank_calc(result: float, value: str, path="bank.json") -> float: #added bank calculation
+def bank_calc(result: float, value: str, path:str="bank.json") -> float: #added bank calculation
+    """
+    This script count if u have enough banknotes (bank.json) to give needed amount of cash.
+    It returns amount of cash that u can give. Used banknotes automaticly removes.
+    :param result:
+    :param value:
+    :param path:
+    :return:
+    """
     with open(path, 'r') as file:
         bank = json.load(file)[value]
         sum = 0
@@ -32,20 +50,42 @@ def bank_calc(result: float, value: str, path="bank.json") -> float: #added bank
 
 # TODO має бути можливисть робити знижку чи змінною чи манімуляцією з mul
 #Потім зроблю
-def cal_cell_course(cource, mul):
+def cal_cell_course(cource:dict, mul:float) -> dict:
+    """
+    Function that updates SELL course in currency_course.json with multiplayer
+    :param cource:
+    :param mul:
+    :return:
+    """
     for curr_name in cource.keys():
         for sec_curr, rate in cource[curr_name]["buy"].items():
             cource[curr_name]["sell"].update({sec_curr: round(rate * (1 + mul), 2)})
     return cource
 
 
-def exchange(amount, cource, operation, old_curr, new_curr):
+def exchange(amount:float, cource:dict, operation:str, old_curr:str, new_curr:str) -> float:
+    """
+    The main exchanger script. Returns The needed amount of cash.
+    :param amount:
+    :param cource:
+    :param operation:
+    :param old_curr:
+    :param new_curr:
+    :return:
+    """
     return amount * cource[old_curr][operation][new_curr]
 
 # TODO якщо помилиться користувач то ввести знову.....
 #Потом зроблю
 
-def input_data(data, count=0, result=[]):
+def input_data(data:tuple, count:int=0, result:list=[]) -> list:
+    """
+    Function that goes settings and ask user questions. Answers collected in result.
+    :param data:
+    :param count:
+    :param result:
+    :return:
+    """
     # result = []
     # count = 0
     while count < len(data):
