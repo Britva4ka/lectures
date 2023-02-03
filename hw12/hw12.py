@@ -24,7 +24,7 @@ class Vector():
         z = self.x * other.y - self.y * other.x
         return Vector(x, y, z)
         #return [x, y, z]
-    def magnitude(self):
+    def magnitude(self)->float:
         magnitude = sqrt(self.x ** 2 + self.y ** 2 + self.z ** 2)
         return round(magnitude, 2) #Не знаю нашо я це зробив. Але я можу отримати величину вектора по модулю.
 
@@ -84,7 +84,7 @@ class Currency():
         # self.usd = y
         # self.eur = z
         # self.pln = t
-    def __eq__(self, other):
+    def __eq__(self, other)->bool:
         if self.show_equivalent() == other.show_equivalent():
             return True
         else: return False
@@ -102,7 +102,7 @@ class Currency():
         return self.bank[key.lower()]
     def show_equivalent(self, key:str='uah', course:dict={"USD": 40, "EUR": 36, "PLN": 6}) -> float:
         eq_uah = 0
-        # course = {
+        # course = {          #Можна зсилатись на датабазу якусь
         #     "USD": 40,
         #     "EUR": 36,
         #     "PLN": 6
@@ -132,3 +132,46 @@ assert lol + Currency(20, 10, 15, 12) == Currency(53, 110, 215, 112)
 """
 typing на клас каренсі та класл Ленс
 """
+class Lenth():
+    metric = {"mm" : 0.001, "cm" : 0.01, "m" : 1, "km" : 1000,
+                "in" : 0.0254, "ft" : 0.3048, "yd" : 0.9144,
+                "mi" : 1609.344 }
+
+    def __init__(self, value:float, unit:str = "m"):
+        self.value = value
+        self.unit = unit
+
+    def converToMeters(self) -> float:
+        return self.value * self.metric[self.unit]
+
+    def __add__(self, other):
+        lenth_meter = self.converToMeters() + other.converToMeters()
+        return Lenth(lenth_meter/Lenth.metric[self.unit], self.unit)
+
+    def __sub__(self, other):
+        pass
+
+    def __mul__(self, other):
+        pass
+
+    def __divmod__(self, other):
+        pass
+
+    def __ge__(self, other):
+        return max(self.converToMeters(), other.converToMeters())
+
+    def __str__(self):
+        return str(self.converToMeters()) + "m"
+
+    def __repr__(self):
+        return f"Lenth {self.value} {self.unit}"
+#
+#
+# val = Lenth(5, "yd")
+# val2 = Lenth(4, "ft")
+#
+# val3 = val + val2 #Lenth(n, "yd")
+# print(val3.__repr__())
+# print(val >= val2)
+#
+
