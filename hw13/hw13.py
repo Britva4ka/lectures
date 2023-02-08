@@ -6,6 +6,7 @@
 ,nickname - 5 реальних боесерів 5 імен тварин 5 прикметників
 """
 import random
+import math
 class Person():
 
     def __init__(self, name, last_name, age):
@@ -48,3 +49,69 @@ class Boxer(Person, Fighter):
 Написати програму яка будує прямокутник(вершини), коло за заданими точками(центр і точка на колі в вм=ипаду кола), трикутник
 кожна фігура має вміти рахувати периметр, площу, та перевірку на правильність введених вершин
 """
+class Point():
+    def __init__(self, x:int, y:int):
+        self.x = x
+        self.y = y
+
+    def __str__(self):
+        return f'({self.x},{self.y})'
+    def __eq__(self, other):
+        if self.x == other.x and self.y == other.y:
+            return True
+        else: return False
+
+class Line():
+    def __init__(self, point1:Point, point2:Point):
+        self.p1 = point1
+        self.p2 = point2
+    def __str__(self):
+        return f'({self.p1},{self.p2})'
+    def __eq__(self, other):
+        if self.p1 == other.p1 and self.p2 == other.p2:
+            return True
+        else: return False
+    def length(self):
+        return math.sqrt((self.p2.x - self.p1.x)**2 + (self.p2.y - self.p1.y)**2)
+    def compare(self, other):             # Method returns a bigger line.
+        if self.length() > other.length():
+            return self
+        elif self.length() < other.length():
+            return other
+        else: return None
+class Shape():
+
+    def __init__(self, name):
+        self.name = name
+
+    def __str__(self):
+        return str(self.name)
+
+class Circle(Shape):
+
+    def __init__(self, name, p1:Point, p2:Point):
+        self.name = name
+        self.p1 = p1
+        self.p2 = p2
+        self.r = Line(p1, p2)
+    def calc_per(self):
+        return 2*math.pi * self.r.length()
+    def calc_area(self):
+        return math.pi * self.r.length()**2
+c = Circle('kaki', Point(1, 2), Point(2, 3))
+print(c.calc_area(), c.calc_per())
+
+class Rectangle(Shape):
+
+    def __init__(self, name, height, width):
+        self.height = height
+        self.width = width
+        super().__init__(name)
+
+    def calc_area(self):
+        return self.height*self.width
+
+class Squeare(Rectangle):
+
+    def __init__(self,name, height):
+        super().__init__(name, height, height)

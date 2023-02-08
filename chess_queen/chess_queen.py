@@ -13,7 +13,12 @@ def create_board(r:int, c:int) -> list:
         board.append(line)
     return board
 
-def flatten(array):
+def flatten(array:list) -> list:
+    """
+    Returns flat list
+    :param array: input chaotic array
+    :return: flat list
+    """
     list1 = []
     for i in array:
         if type(i) == list:
@@ -22,7 +27,14 @@ def flatten(array):
             list1.append(i)
     return list1
 
-def check(board, r, c):
+def check(board:list, r:int, c:int) -> bool:
+    """
+    Function that check if u can place queen on selected place
+    :param board:
+    :param r: raw
+    :param c: column
+    :return: True or False
+    """
     #raws
     for element in board[r]:
         if element == 1:
@@ -71,29 +83,40 @@ def check(board, r, c):
     r -= count
     c += count
     return True
+def do_it(raw:int, col:int) -> int:
+    """
+    Main function.
+    :param raw: number of raws
+    :param col: number of columns
+    :return: number of solution
+    """
+    count = 0
+    for j in range(raw):
+        for k in range(col): #creating 64 boards with different start (0,0) (0,1) etc
+            board = create_board(raw, col)
+            board[j][k] = 1
+            for i in range(raw):       #Checking availible place for placing queen from beggining of the board (0,0)
+                for x in range(col):
+                    if check(board, i, x):
+                        board[i][x] = 1 #Place queen in the first availible spot
+            # print(*board, sep='\n')
+            # print('\n\n\n')
+            if sum(flatten(board)) == 8:   #Printing board if amount of queen == 8.
+                count += 1
+                print(*board, sep='\n')
+                print('\n\n\n')
 
-for j in range(8):
-    for k in range(8):
-        board = create_board(8, 8)
-        board[j][k] = 1
-        for i in range(len(board)):
-            for x in range(len(board[i])):
-                if check(board, i, x):
-                    board[i][x] = 1
-        if sum(flatten(board)) == 8:
-            print(*board, sep='\n')
-            print('\n\n\n')
-        # print(*board, sep='\n')
-        # print('\n\n\n')
+    return count
 
-# def do_it_bitch(board, r=0, c=0):
-#     board[r][c] = 1
-#     for i in range(len(board) - 1):
-#         for x in range(len(board[i]) - 1):
-#             if check(board, i, x):
-#                 board[i][x] = 1
-#
-#             return board
-#
-# print(*do_it_bitch(board), sep='\n')
-
+print(do_it(8, 8))
+# for j in range(8):
+#     for k in range(8):
+#         board = create_board(8, 8)
+#         board[j][k] = 1
+#         for i in range(len(board)):
+#             for x in range(len(board[i])):
+#                 if check(board, i, x):
+#                     board[i][x] = 1
+#         if sum(flatten(board)) == 8:
+#             print(*board, sep='\n')
+#             print('\n\n\n')
