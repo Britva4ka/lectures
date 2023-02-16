@@ -99,8 +99,8 @@ def do_it(raw:int, col:int) -> int:
                 for x in range(col):
                     if check(board, i, x):
                         board[i][x] = 1 #Place queen in the first availible spot
-            # print(*board, sep='\n')
-            # print('\n\n\n')
+            print(*board, sep='\n')
+            print('\n\n\n')
             if sum(flatten(board)) == 8:   #Printing board if amount of queen == 8.
                 count += 1
                 print(*board, sep='\n')
