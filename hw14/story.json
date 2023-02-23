@@ -1,0 +1,4631 @@
+[
+  {
+    "ROUND": 1,
+    "PLAYERS": [
+      {
+        "points": 610,
+        "name": "bot0",
+        "bet": 1083,
+        "choice": "tails"
+      },
+      {
+        "points": 741,
+        "name": "bot1",
+        "bet": 303,
+        "choice": "tails"
+      },
+      {
+        "points": 1583,
+        "name": "bot2",
+        "bet": 220,
+        "choice": "tails"
+      },
+      {
+        "points": 1073,
+        "name": "bot3",
+        "bet": 843,
+        "choice": "tails"
+      },
+      {
+        "points": 2434,
+        "name": "bot4",
+        "bet": 548,
+        "choice": "head"
+      },
+      {
+        "points": 457,
+        "name": "bot5",
+        "bet": 666,
+        "choice": "tails"
+      },
+      {
+        "points": 1599,
+        "name": "bot6",
+        "bet": 46,
+        "choice": "head"
+      },
+      {
+        "points": 1441,
+        "name": "bot7",
+        "bet": 144,
+        "choice": "head"
+      },
+      {
+        "points": 1169,
+        "name": "bot8",
+        "bet": 233,
+        "choice": "tails"
+      },
+      {
+        "points": 2664,
+        "name": "bot9",
+        "bet": 795,
+        "choice": "head"
+      },
+      {
+        "points": 2323,
+        "name": "Michael",
+        "bet": 500,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot4",
+      "bot6",
+      "bot7",
+      "bot9",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 2,
+    "PLAYERS": [
+      {
+        "points": 1127,
+        "name": "bot0",
+        "bet": 424,
+        "choice": "head"
+      },
+      {
+        "points": 640,
+        "name": "bot1",
+        "bet": 101,
+        "choice": "tails"
+      },
+      {
+        "points": 36,
+        "name": "bot2",
+        "bet": 1547,
+        "choice": "tails"
+      },
+      {
+        "points": 172,
+        "name": "bot3",
+        "bet": 901,
+        "choice": "tails"
+      },
+      {
+        "points": 5286,
+        "name": "bot4",
+        "bet": 2337,
+        "choice": "head"
+      },
+      {
+        "points": 52,
+        "name": "bot5",
+        "bet": 405,
+        "choice": "tails"
+      },
+      {
+        "points": 2180,
+        "name": "bot6",
+        "bet": 476,
+        "choice": "head"
+      },
+      {
+        "points": 1017,
+        "name": "bot7",
+        "bet": 424,
+        "choice": "tails"
+      },
+      {
+        "points": 1647,
+        "name": "bot8",
+        "bet": 392,
+        "choice": "head"
+      },
+      {
+        "points": 2113,
+        "name": "bot9",
+        "bet": 551,
+        "choice": "tails"
+      },
+      {
+        "points": 1823,
+        "name": "Michael",
+        "bet": 500,
+        "choice": "tails"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot0",
+      "bot4",
+      "bot6",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 3,
+    "PLAYERS": [
+      {
+        "points": 7,
+        "name": "bot0",
+        "bet": 1120,
+        "choice": "tails"
+      },
+      {
+        "points": 633,
+        "name": "bot1",
+        "bet": 7,
+        "choice": "tails"
+      },
+      {
+        "points": 193,
+        "name": "bot2",
+        "bet": 30,
+        "choice": "head"
+      },
+      {
+        "points": 39,
+        "name": "bot3",
+        "bet": 133,
+        "choice": "tails"
+      },
+      {
+        "points": 1190,
+        "name": "bot4",
+        "bet": 4096,
+        "choice": "tails"
+      },
+      {
+        "points": 29,
+        "name": "bot5",
+        "bet": 23,
+        "choice": "tails"
+      },
+      {
+        "points": 6115,
+        "name": "bot6",
+        "bet": 751,
+        "choice": "head"
+      },
+      {
+        "points": 2327,
+        "name": "bot7",
+        "bet": 250,
+        "choice": "head"
+      },
+      {
+        "points": 1594,
+        "name": "bot8",
+        "bet": 53,
+        "choice": "tails"
+      },
+      {
+        "points": 571,
+        "name": "bot9",
+        "bet": 1542,
+        "choice": "tails"
+      },
+      {
+        "points": 3395,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot2",
+      "bot6",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 4,
+    "PLAYERS": [
+      {
+        "points": 8,
+        "name": "bot0",
+        "bet": 4,
+        "choice": "head"
+      },
+      {
+        "points": 146,
+        "name": "bot1",
+        "bet": 487,
+        "choice": "tails"
+      },
+      {
+        "points": 78,
+        "name": "bot2",
+        "bet": 115,
+        "choice": "tails"
+      },
+      {
+        "points": 46,
+        "name": "bot3",
+        "bet": 18,
+        "choice": "head"
+      },
+      {
+        "points": 246,
+        "name": "bot4",
+        "bet": 944,
+        "choice": "tails"
+      },
+      {
+        "points": 20,
+        "name": "bot5",
+        "bet": 9,
+        "choice": "tails"
+      },
+      {
+        "points": 8173,
+        "name": "bot6",
+        "bet": 5549,
+        "choice": "head"
+      },
+      {
+        "points": 2444,
+        "name": "bot7",
+        "bet": 316,
+        "choice": "head"
+      },
+      {
+        "points": 957,
+        "name": "bot8",
+        "bet": 637,
+        "choice": "tails"
+      },
+      {
+        "points": 468,
+        "name": "bot9",
+        "bet": 103,
+        "choice": "tails"
+      },
+      {
+        "points": 3506,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot0",
+      "bot3",
+      "bot6",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 5,
+    "PLAYERS": [
+      {
+        "points": 9,
+        "name": "bot0",
+        "bet": 7,
+        "choice": "tails"
+      },
+      {
+        "points": 142,
+        "name": "bot1",
+        "bet": 4,
+        "choice": "head"
+      },
+      {
+        "points": 87,
+        "name": "bot2",
+        "bet": 55,
+        "choice": "tails"
+      },
+      {
+        "points": 42,
+        "name": "bot3",
+        "bet": 4,
+        "choice": "head"
+      },
+      {
+        "points": 214,
+        "name": "bot4",
+        "bet": 32,
+        "choice": "head"
+      },
+      {
+        "points": 22,
+        "name": "bot5",
+        "bet": 13,
+        "choice": "tails"
+      },
+      {
+        "points": 9309,
+        "name": "bot6",
+        "bet": 7234,
+        "choice": "tails"
+      },
+      {
+        "points": 1985,
+        "name": "bot7",
+        "bet": 459,
+        "choice": "head"
+      },
+      {
+        "points": 1057,
+        "name": "bot8",
+        "bet": 635,
+        "choice": "tails"
+      },
+      {
+        "points": 19,
+        "name": "bot9",
+        "bet": 449,
+        "choice": "head"
+      },
+      {
+        "points": 3206,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot2",
+      "bot5",
+      "bot6",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 6,
+    "PLAYERS": [
+      {
+        "points": 7,
+        "name": "bot0",
+        "bet": 2,
+        "choice": "head"
+      },
+      {
+        "points": 249,
+        "name": "bot1",
+        "bet": 98,
+        "choice": "tails"
+      },
+      {
+        "points": 6,
+        "name": "bot2",
+        "bet": 81,
+        "choice": "head"
+      },
+      {
+        "points": 81,
+        "name": "bot3",
+        "bet": 36,
+        "choice": "tails"
+      },
+      {
+        "points": 150,
+        "name": "bot4",
+        "bet": 64,
+        "choice": "head"
+      },
+      {
+        "points": 31,
+        "name": "bot5",
+        "bet": 8,
+        "choice": "tails"
+      },
+      {
+        "points": 8301,
+        "name": "bot6",
+        "bet": 1008,
+        "choice": "head"
+      },
+      {
+        "points": 3710,
+        "name": "bot7",
+        "bet": 1586,
+        "choice": "tails"
+      },
+      {
+        "points": 626,
+        "name": "bot8",
+        "bet": 431,
+        "choice": "head"
+      },
+      {
+        "points": 26,
+        "name": "bot9",
+        "bet": 6,
+        "choice": "tails"
+      },
+      {
+        "points": 2906,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot5",
+      "bot7",
+      "bot9"
+    ]
+  }
+],[
+  {
+    "ROUND": 7,
+    "PLAYERS": [
+      {
+        "points": 21,
+        "name": "bot0",
+        "bet": 2,
+        "choice": "tails"
+      },
+      {
+        "points": 1715,
+        "name": "bot1",
+        "bet": 205,
+        "choice": "tails"
+      },
+      {
+        "points": 35,
+        "name": "bot2",
+        "bet": 4,
+        "choice": "tails"
+      },
+      {
+        "points": 560,
+        "name": "bot3",
+        "bet": 67,
+        "choice": "tails"
+      },
+      {
+        "points": 1073,
+        "name": "bot4",
+        "bet": 129,
+        "choice": "tails"
+      },
+      {
+        "points": 1,
+        "name": "bot5",
+        "bet": 30,
+        "choice": "head"
+      },
+      {
+        "points": 4637,
+        "name": "bot6",
+        "bet": 3664,
+        "choice": "head"
+      },
+      {
+        "points": 4854,
+        "name": "bot7",
+        "bet": 160,
+        "choice": "tails"
+      },
+      {
+        "points": 508,
+        "name": "bot8",
+        "bet": 118,
+        "choice": "head"
+      },
+      {
+        "points": 83,
+        "name": "bot9",
+        "bet": 8,
+        "choice": "tails"
+      },
+      {
+        "points": 2606,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot1",
+      "bot2",
+      "bot3",
+      "bot4",
+      "bot7",
+      "bot9"
+    ]
+  }
+],[
+  {
+    "ROUND": 8,
+    "PLAYERS": [
+      {
+        "points": 23,
+        "name": "bot0",
+        "bet": 21,
+        "choice": "tails"
+      },
+      {
+        "points": 1784,
+        "name": "bot1",
+        "bet": 675,
+        "choice": "tails"
+      },
+      {
+        "points": 36,
+        "name": "bot2",
+        "bet": 11,
+        "choice": "tails"
+      },
+      {
+        "points": 221,
+        "name": "bot3",
+        "bet": 339,
+        "choice": "head"
+      },
+      {
+        "points": 1168,
+        "name": "bot4",
+        "bet": 921,
+        "choice": "tails"
+      },
+      {
+        "points": 1,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 4716,
+        "name": "bot6",
+        "bet": 767,
+        "choice": "tails"
+      },
+      {
+        "points": 5222,
+        "name": "bot7",
+        "bet": 3579,
+        "choice": "tails"
+      },
+      {
+        "points": 532,
+        "name": "bot8",
+        "bet": 234,
+        "choice": "tails"
+      },
+      {
+        "points": 84,
+        "name": "bot9",
+        "bet": 5,
+        "choice": "tails"
+      },
+      {
+        "points": 2306,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot1",
+      "bot2",
+      "bot4",
+      "bot6",
+      "bot7",
+      "bot8",
+      "bot9"
+    ]
+  }
+],[
+  {
+    "ROUND": 9,
+    "PLAYERS": [
+      {
+        "points": 25,
+        "name": "bot0",
+        "bet": 8,
+        "choice": "head"
+      },
+      {
+        "points": 1321,
+        "name": "bot1",
+        "bet": 463,
+        "choice": "tails"
+      },
+      {
+        "points": 37,
+        "name": "bot2",
+        "bet": 2,
+        "choice": "head"
+      },
+      {
+        "points": 179,
+        "name": "bot3",
+        "bet": 42,
+        "choice": "tails"
+      },
+      {
+        "points": 1522,
+        "name": "bot4",
+        "bet": 1135,
+        "choice": "head"
+      },
+      {
+        "points": 1,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 5829,
+        "name": "bot6",
+        "bet": 3571,
+        "choice": "head"
+      },
+      {
+        "points": 4075,
+        "name": "bot7",
+        "bet": 1147,
+        "choice": "tails"
+      },
+      {
+        "points": 610,
+        "name": "bot8",
+        "bet": 251,
+        "choice": "head"
+      },
+      {
+        "points": 95,
+        "name": "bot9",
+        "bet": 35,
+        "choice": "head"
+      },
+      {
+        "points": 2399,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot0",
+      "bot2",
+      "bot4",
+      "bot6",
+      "bot8",
+      "bot9",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 10,
+    "PLAYERS": [
+      {
+        "points": 36,
+        "name": "bot0",
+        "bet": 7,
+        "choice": "tails"
+      },
+      {
+        "points": 1719,
+        "name": "bot1",
+        "bet": 248,
+        "choice": "tails"
+      },
+      {
+        "points": 29,
+        "name": "bot2",
+        "bet": 8,
+        "choice": "head"
+      },
+      {
+        "points": 463,
+        "name": "bot3",
+        "bet": 177,
+        "choice": "tails"
+      },
+      {
+        "points": 2543,
+        "name": "bot4",
+        "bet": 636,
+        "choice": "tails"
+      },
+      {
+        "points": 1,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 4983,
+        "name": "bot6",
+        "bet": 846,
+        "choice": "head"
+      },
+      {
+        "points": 3017,
+        "name": "bot7",
+        "bet": 1058,
+        "choice": "head"
+      },
+      {
+        "points": 1178,
+        "name": "bot8",
+        "bet": 354,
+        "choice": "tails"
+      },
+      {
+        "points": 24,
+        "name": "bot9",
+        "bet": 71,
+        "choice": "head"
+      },
+      {
+        "points": 2099,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot1",
+      "bot3",
+      "bot4",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 11,
+    "PLAYERS": [
+      {
+        "points": 17,
+        "name": "bot0",
+        "bet": 19,
+        "choice": "head"
+      },
+      {
+        "points": 2577,
+        "name": "bot1",
+        "bet": 1194,
+        "choice": "tails"
+      },
+      {
+        "points": 26,
+        "name": "bot2",
+        "bet": 3,
+        "choice": "head"
+      },
+      {
+        "points": 149,
+        "name": "bot3",
+        "bet": 314,
+        "choice": "head"
+      },
+      {
+        "points": 523,
+        "name": "bot4",
+        "bet": 2020,
+        "choice": "head"
+      },
+      {
+        "points": 2,
+        "name": "bot5",
+        "bet": 1,
+        "choice": "tails"
+      },
+      {
+        "points": 7861,
+        "name": "bot6",
+        "bet": 4004,
+        "choice": "tails"
+      },
+      {
+        "points": 1162,
+        "name": "bot7",
+        "bet": 1855,
+        "choice": "head"
+      },
+      {
+        "points": 1952,
+        "name": "bot8",
+        "bet": 1076,
+        "choice": "tails"
+      },
+      {
+        "points": 24,
+        "name": "bot9",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 1799,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot5",
+      "bot6",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 12,
+    "PLAYERS": [
+      {
+        "points": 38,
+        "name": "bot0",
+        "bet": 17,
+        "choice": "head"
+      },
+      {
+        "points": 2156,
+        "name": "bot1",
+        "bet": 421,
+        "choice": "tails"
+      },
+      {
+        "points": 42,
+        "name": "bot2",
+        "bet": 13,
+        "choice": "head"
+      },
+      {
+        "points": 318,
+        "name": "bot3",
+        "bet": 136,
+        "choice": "head"
+      },
+      {
+        "points": 364,
+        "name": "bot4",
+        "bet": 159,
+        "choice": "tails"
+      },
+      {
+        "points": 2,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 7157,
+        "name": "bot6",
+        "bet": 704,
+        "choice": "tails"
+      },
+      {
+        "points": 340,
+        "name": "bot7",
+        "bet": 822,
+        "choice": "tails"
+      },
+      {
+        "points": 3456,
+        "name": "bot8",
+        "bet": 1210,
+        "choice": "head"
+      },
+      {
+        "points": 46,
+        "name": "bot9",
+        "bet": 18,
+        "choice": "head"
+      },
+      {
+        "points": 2172,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot0",
+      "bot2",
+      "bot3",
+      "bot8",
+      "bot9",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 13,
+    "PLAYERS": [
+      {
+        "points": 33,
+        "name": "bot0",
+        "bet": 5,
+        "choice": "tails"
+      },
+      {
+        "points": 1139,
+        "name": "bot1",
+        "bet": 1017,
+        "choice": "tails"
+      },
+      {
+        "points": 32,
+        "name": "bot2",
+        "bet": 10,
+        "choice": "tails"
+      },
+      {
+        "points": 184,
+        "name": "bot3",
+        "bet": 134,
+        "choice": "tails"
+      },
+      {
+        "points": 2509,
+        "name": "bot4",
+        "bet": 216,
+        "choice": "head"
+      },
+      {
+        "points": 2,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 5742,
+        "name": "bot6",
+        "bet": 1415,
+        "choice": "tails"
+      },
+      {
+        "points": 331,
+        "name": "bot7",
+        "bet": 9,
+        "choice": "tails"
+      },
+      {
+        "points": 959,
+        "name": "bot8",
+        "bet": 2497,
+        "choice": "tails"
+      },
+      {
+        "points": 8,
+        "name": "bot9",
+        "bet": 38,
+        "choice": "tails"
+      },
+      {
+        "points": 5152,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot4",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 14,
+    "PLAYERS": [
+      {
+        "points": 139,
+        "name": "bot0",
+        "bet": 19,
+        "choice": "head"
+      },
+      {
+        "points": 995,
+        "name": "bot1",
+        "bet": 144,
+        "choice": "tails"
+      },
+      {
+        "points": 38,
+        "name": "bot2",
+        "bet": 1,
+        "choice": "head"
+      },
+      {
+        "points": 284,
+        "name": "bot3",
+        "bet": 18,
+        "choice": "head"
+      },
+      {
+        "points": 2149,
+        "name": "bot4",
+        "bet": 360,
+        "choice": "tails"
+      },
+      {
+        "points": 2,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 4975,
+        "name": "bot6",
+        "bet": 767,
+        "choice": "tails"
+      },
+      {
+        "points": 80,
+        "name": "bot7",
+        "bet": 251,
+        "choice": "tails"
+      },
+      {
+        "points": 578,
+        "name": "bot8",
+        "bet": 381,
+        "choice": "tails"
+      },
+      {
+        "points": 30,
+        "name": "bot9",
+        "bet": 4,
+        "choice": "head"
+      },
+      {
+        "points": 6821,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot0",
+      "bot2",
+      "bot3",
+      "bot9",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 15,
+    "PLAYERS": [
+      {
+        "points": 153,
+        "name": "bot0",
+        "bet": 14,
+        "choice": "head"
+      },
+      {
+        "points": 1378,
+        "name": "bot1",
+        "bet": 371,
+        "choice": "head"
+      },
+      {
+        "points": 31,
+        "name": "bot2",
+        "bet": 7,
+        "choice": "tails"
+      },
+      {
+        "points": 34,
+        "name": "bot3",
+        "bet": 250,
+        "choice": "tails"
+      },
+      {
+        "points": 1117,
+        "name": "bot4",
+        "bet": 1032,
+        "choice": "tails"
+      },
+      {
+        "points": 2,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 5265,
+        "name": "bot6",
+        "bet": 281,
+        "choice": "head"
+      },
+      {
+        "points": 46,
+        "name": "bot7",
+        "bet": 34,
+        "choice": "tails"
+      },
+      {
+        "points": 910,
+        "name": "bot8",
+        "bet": 322,
+        "choice": "head"
+      },
+      {
+        "points": 24,
+        "name": "bot9",
+        "bet": 6,
+        "choice": "tails"
+      },
+      {
+        "points": 7131,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot0",
+      "bot1",
+      "bot6",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 16,
+    "PLAYERS": [
+      {
+        "points": 181,
+        "name": "bot0",
+        "bet": 6,
+        "choice": "tails"
+      },
+      {
+        "points": 913,
+        "name": "bot1",
+        "bet": 465,
+        "choice": "head"
+      },
+      {
+        "points": 20,
+        "name": "bot2",
+        "bet": 11,
+        "choice": "head"
+      },
+      {
+        "points": 10,
+        "name": "bot3",
+        "bet": 24,
+        "choice": "head"
+      },
+      {
+        "points": 23,
+        "name": "bot4",
+        "bet": 1094,
+        "choice": "head"
+      },
+      {
+        "points": 2,
+        "name": "bot5",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 4426,
+        "name": "bot6",
+        "bet": 839,
+        "choice": "head"
+      },
+      {
+        "points": 237,
+        "name": "bot7",
+        "bet": 41,
+        "choice": "tails"
+      },
+      {
+        "points": 3430,
+        "name": "bot8",
+        "bet": 542,
+        "choice": "tails"
+      },
+      {
+        "points": 18,
+        "name": "bot9",
+        "bet": 6,
+        "choice": "head"
+      },
+      {
+        "points": 6831,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot7",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 17,
+    "PLAYERS": [
+      {
+        "points": 93,
+        "name": "bot0",
+        "bet": 88,
+        "choice": "head"
+      },
+      {
+        "points": 588,
+        "name": "bot1",
+        "bet": 325,
+        "choice": "head"
+      },
+      {
+        "points": 0,
+        "name": "bot2",
+        "bet": 20,
+        "choice": "head"
+      },
+      {
+        "points": 10,
+        "name": "bot3",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 60,
+        "name": "bot4",
+        "bet": 22,
+        "choice": "tails"
+      },
+      {
+        "points": 4,
+        "name": "bot5",
+        "bet": 1,
+        "choice": "tails"
+      },
+      {
+        "points": 591,
+        "name": "bot6",
+        "bet": 3835,
+        "choice": "head"
+      },
+      {
+        "points": 61,
+        "name": "bot7",
+        "bet": 176,
+        "choice": "head"
+      },
+      {
+        "points": 8152,
+        "name": "bot8",
+        "bet": 2839,
+        "choice": "tails"
+      },
+      {
+        "points": 2,
+        "name": "bot9",
+        "bet": 16,
+        "choice": "head"
+      },
+      {
+        "points": 6531,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot4",
+      "bot5",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 18,
+    "PLAYERS": [
+      {
+        "points": 19,
+        "name": "bot0",
+        "bet": 74,
+        "choice": "tails"
+      },
+      {
+        "points": 56,
+        "name": "bot1",
+        "bet": 532,
+        "choice": "tails"
+      },
+      {
+        "points": 10,
+        "name": "bot3",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 3,
+        "name": "bot4",
+        "bet": 57,
+        "choice": "tails"
+      },
+      {
+        "points": 1,
+        "name": "bot5",
+        "bet": 3,
+        "choice": "tails"
+      },
+      {
+        "points": 495,
+        "name": "bot6",
+        "bet": 96,
+        "choice": "tails"
+      },
+      {
+        "points": 53,
+        "name": "bot7",
+        "bet": 8,
+        "choice": "tails"
+      },
+      {
+        "points": 8772,
+        "name": "bot8",
+        "bet": 1219,
+        "choice": "head"
+      },
+      {
+        "points": 0,
+        "name": "bot9",
+        "bet": 2,
+        "choice": "tails"
+      },
+      {
+        "points": 6683,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 19,
+    "PLAYERS": [
+      {
+        "points": 32,
+        "name": "bot0",
+        "bet": 7,
+        "choice": "head"
+      },
+      {
+        "points": 140,
+        "name": "bot1",
+        "bet": 47,
+        "choice": "head"
+      },
+      {
+        "points": 19,
+        "name": "bot3",
+        "bet": 5,
+        "choice": "head"
+      },
+      {
+        "points": 0,
+        "name": "bot4",
+        "bet": 3,
+        "choice": "tails"
+      },
+      {
+        "points": 3,
+        "name": "bot5",
+        "bet": 1,
+        "choice": "head"
+      },
+      {
+        "points": 232,
+        "name": "bot6",
+        "bet": 263,
+        "choice": "tails"
+      },
+      {
+        "points": 57,
+        "name": "bot7",
+        "bet": 2,
+        "choice": "head"
+      },
+      {
+        "points": 8391,
+        "name": "bot8",
+        "bet": 381,
+        "choice": "tails"
+      },
+      {
+        "points": 7219,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot0",
+      "bot1",
+      "bot3",
+      "bot5",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 20,
+    "PLAYERS": [
+      {
+        "points": 34,
+        "name": "bot0",
+        "bet": 21,
+        "choice": "tails"
+      },
+      {
+        "points": 28,
+        "name": "bot1",
+        "bet": 112,
+        "choice": "head"
+      },
+      {
+        "points": 11,
+        "name": "bot3",
+        "bet": 8,
+        "choice": "head"
+      },
+      {
+        "points": 3,
+        "name": "bot5",
+        "bet": 1,
+        "choice": "head"
+      },
+      {
+        "points": 248,
+        "name": "bot6",
+        "bet": 203,
+        "choice": "tails"
+      },
+      {
+        "points": 61,
+        "name": "bot7",
+        "bet": 53,
+        "choice": "tails"
+      },
+      {
+        "points": 8790,
+        "name": "bot8",
+        "bet": 5010,
+        "choice": "tails"
+      },
+      {
+        "points": 6919,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot6",
+      "bot7",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 21,
+    "PLAYERS": [
+      {
+        "points": 16,
+        "name": "bot0",
+        "bet": 18,
+        "choice": "tails"
+      },
+      {
+        "points": 45,
+        "name": "bot1",
+        "bet": 12,
+        "choice": "head"
+      },
+      {
+        "points": 15,
+        "name": "bot3",
+        "bet": 3,
+        "choice": "head"
+      },
+      {
+        "points": 6,
+        "name": "bot5",
+        "bet": 2,
+        "choice": "head"
+      },
+      {
+        "points": 315,
+        "name": "bot6",
+        "bet": 48,
+        "choice": "head"
+      },
+      {
+        "points": 130,
+        "name": "bot7",
+        "bet": 49,
+        "choice": "head"
+      },
+      {
+        "points": 8229,
+        "name": "bot8",
+        "bet": 561,
+        "choice": "tails"
+      },
+      {
+        "points": 7339,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot5",
+      "bot6",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 22,
+    "PLAYERS": [
+      {
+        "points": 234,
+        "name": "bot0",
+        "bet": 11,
+        "choice": "tails"
+      },
+      {
+        "points": 639,
+        "name": "bot1",
+        "bet": 30,
+        "choice": "tails"
+      },
+      {
+        "points": 253,
+        "name": "bot3",
+        "bet": 12,
+        "choice": "tails"
+      },
+      {
+        "points": 65,
+        "name": "bot5",
+        "bet": 3,
+        "choice": "tails"
+      },
+      {
+        "points": 280,
+        "name": "bot6",
+        "bet": 35,
+        "choice": "head"
+      },
+      {
+        "points": 1913,
+        "name": "bot7",
+        "bet": 90,
+        "choice": "tails"
+      },
+      {
+        "points": 5671,
+        "name": "bot8",
+        "bet": 2558,
+        "choice": "head"
+      },
+      {
+        "points": 7039,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot1",
+      "bot3",
+      "bot5",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 23,
+    "PLAYERS": [
+      {
+        "points": 312,
+        "name": "bot0",
+        "bet": 38,
+        "choice": "tails"
+      },
+      {
+        "points": 1212,
+        "name": "bot1",
+        "bet": 279,
+        "choice": "tails"
+      },
+      {
+        "points": 512,
+        "name": "bot3",
+        "bet": 126,
+        "choice": "tails"
+      },
+      {
+        "points": 112,
+        "name": "bot5",
+        "bet": 23,
+        "choice": "tails"
+      },
+      {
+        "points": 100,
+        "name": "bot6",
+        "bet": 180,
+        "choice": "head"
+      },
+      {
+        "points": 3701,
+        "name": "bot7",
+        "bet": 871,
+        "choice": "tails"
+      },
+      {
+        "points": 3406,
+        "name": "bot8",
+        "bet": 2265,
+        "choice": "head"
+      },
+      {
+        "points": 6739,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot1",
+      "bot3",
+      "bot5",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 24,
+    "PLAYERS": [
+      {
+        "points": 272,
+        "name": "bot0",
+        "bet": 40,
+        "choice": "tails"
+      },
+      {
+        "points": 4798,
+        "name": "bot1",
+        "bet": 1017,
+        "choice": "head"
+      },
+      {
+        "points": 991,
+        "name": "bot3",
+        "bet": 136,
+        "choice": "head"
+      },
+      {
+        "points": 274,
+        "name": "bot5",
+        "bet": 46,
+        "choice": "head"
+      },
+      {
+        "points": 30,
+        "name": "bot6",
+        "bet": 70,
+        "choice": "tails"
+      },
+      {
+        "points": 1900,
+        "name": "bot7",
+        "bet": 1801,
+        "choice": "tails"
+      },
+      {
+        "points": 32,
+        "name": "bot8",
+        "bet": 3374,
+        "choice": "tails"
+      },
+      {
+        "points": 7797,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot5",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 25,
+    "PLAYERS": [
+      {
+        "points": 295,
+        "name": "bot0",
+        "bet": 124,
+        "choice": "tails"
+      },
+      {
+        "points": 4572,
+        "name": "bot1",
+        "bet": 226,
+        "choice": "head"
+      },
+      {
+        "points": 1174,
+        "name": "bot3",
+        "bet": 967,
+        "choice": "tails"
+      },
+      {
+        "points": 294,
+        "name": "bot5",
+        "bet": 107,
+        "choice": "tails"
+      },
+      {
+        "points": 35,
+        "name": "bot6",
+        "bet": 28,
+        "choice": "tails"
+      },
+      {
+        "points": 2194,
+        "name": "bot7",
+        "bet": 1555,
+        "choice": "tails"
+      },
+      {
+        "points": 32,
+        "name": "bot8",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 7497,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot0",
+      "bot3",
+      "bot5",
+      "bot6",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 26,
+    "PLAYERS": [
+      {
+        "points": 230,
+        "name": "bot0",
+        "bet": 65,
+        "choice": "tails"
+      },
+      {
+        "points": 5515,
+        "name": "bot1",
+        "bet": 4261,
+        "choice": "head"
+      },
+      {
+        "points": 1254,
+        "name": "bot3",
+        "bet": 360,
+        "choice": "head"
+      },
+      {
+        "points": 344,
+        "name": "bot5",
+        "bet": 226,
+        "choice": "head"
+      },
+      {
+        "points": 18,
+        "name": "bot6",
+        "bet": 17,
+        "choice": "tails"
+      },
+      {
+        "points": 1154,
+        "name": "bot7",
+        "bet": 1040,
+        "choice": "tails"
+      },
+      {
+        "points": 15,
+        "name": "bot8",
+        "bet": 17,
+        "choice": "tails"
+      },
+      {
+        "points": 7563,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot5",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 27,
+    "PLAYERS": [
+      {
+        "points": 89,
+        "name": "bot0",
+        "bet": 141,
+        "choice": "head"
+      },
+      {
+        "points": 5844,
+        "name": "bot1",
+        "bet": 2987,
+        "choice": "tails"
+      },
+      {
+        "points": 1256,
+        "name": "bot3",
+        "bet": 17,
+        "choice": "tails"
+      },
+      {
+        "points": 361,
+        "name": "bot5",
+        "bet": 153,
+        "choice": "tails"
+      },
+      {
+        "points": 4,
+        "name": "bot6",
+        "bet": 14,
+        "choice": "head"
+      },
+      {
+        "points": 1261,
+        "name": "bot7",
+        "bet": 968,
+        "choice": "tails"
+      },
+      {
+        "points": 16,
+        "name": "bot8",
+        "bet": 7,
+        "choice": "tails"
+      },
+      {
+        "points": 7263,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot5",
+      "bot7",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 28,
+    "PLAYERS": [
+      {
+        "points": 52,
+        "name": "bot0",
+        "bet": 37,
+        "choice": "head"
+      },
+      {
+        "points": 1619,
+        "name": "bot1",
+        "bet": 4225,
+        "choice": "head"
+      },
+      {
+        "points": 499,
+        "name": "bot3",
+        "bet": 757,
+        "choice": "head"
+      },
+      {
+        "points": 1239,
+        "name": "bot5",
+        "bet": 184,
+        "choice": "tails"
+      },
+      {
+        "points": 4,
+        "name": "bot6",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 5706,
+        "name": "bot7",
+        "bet": 931,
+        "choice": "tails"
+      },
+      {
+        "points": 12,
+        "name": "bot8",
+        "bet": 4,
+        "choice": "head"
+      },
+      {
+        "points": 6963,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot5",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 29,
+    "PLAYERS": [
+      {
+        "points": 2,
+        "name": "bot0",
+        "bet": 50,
+        "choice": "tails"
+      },
+      {
+        "points": 799,
+        "name": "bot1",
+        "bet": 820,
+        "choice": "tails"
+      },
+      {
+        "points": 1424,
+        "name": "bot3",
+        "bet": 302,
+        "choice": "head"
+      },
+      {
+        "points": 1946,
+        "name": "bot5",
+        "bet": 231,
+        "choice": "head"
+      },
+      {
+        "points": 10,
+        "name": "bot6",
+        "bet": 2,
+        "choice": "head"
+      },
+      {
+        "points": 3982,
+        "name": "bot7",
+        "bet": 1724,
+        "choice": "tails"
+      },
+      {
+        "points": 49,
+        "name": "bot8",
+        "bet": 12,
+        "choice": "head"
+      },
+      {
+        "points": 7882,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "bot5",
+      "bot6",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 30,
+    "PLAYERS": [
+      {
+        "points": 0,
+        "name": "bot0",
+        "bet": 2,
+        "choice": "tails"
+      },
+      {
+        "points": 255,
+        "name": "bot1",
+        "bet": 544,
+        "choice": "tails"
+      },
+      {
+        "points": 813,
+        "name": "bot3",
+        "bet": 611,
+        "choice": "tails"
+      },
+      {
+        "points": 4438,
+        "name": "bot5",
+        "bet": 1558,
+        "choice": "head"
+      },
+      {
+        "points": 26,
+        "name": "bot6",
+        "bet": 10,
+        "choice": "head"
+      },
+      {
+        "points": 2102,
+        "name": "bot7",
+        "bet": 1880,
+        "choice": "tails"
+      },
+      {
+        "points": 99,
+        "name": "bot8",
+        "bet": 31,
+        "choice": "head"
+      },
+      {
+        "points": 8362,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot5",
+      "bot6",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 31,
+    "PLAYERS": [
+      {
+        "points": 993,
+        "name": "bot1",
+        "bet": 544,
+        "choice": "tails"
+      },
+      {
+        "points": 174,
+        "name": "bot3",
+        "bet": 639,
+        "choice": "head"
+      },
+      {
+        "points": 5644,
+        "name": "bot5",
+        "bet": 3389,
+        "choice": "tails"
+      },
+      {
+        "points": 10,
+        "name": "bot6",
+        "bet": 16,
+        "choice": "head"
+      },
+      {
+        "points": 1727,
+        "name": "bot7",
+        "bet": 375,
+        "choice": "head"
+      },
+      {
+        "points": 29,
+        "name": "bot8",
+        "bet": 70,
+        "choice": "head"
+      },
+      {
+        "points": 8062,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot5"
+    ]
+  }
+],[
+  {
+    "ROUND": 32,
+    "PLAYERS": [
+      {
+        "points": 432,
+        "name": "bot1",
+        "bet": 561,
+        "choice": "tails"
+      },
+      {
+        "points": 23,
+        "name": "bot3",
+        "bet": 151,
+        "choice": "tails"
+      },
+      {
+        "points": 4199,
+        "name": "bot5",
+        "bet": 1445,
+        "choice": "tails"
+      },
+      {
+        "points": 14,
+        "name": "bot6",
+        "bet": 3,
+        "choice": "head"
+      },
+      {
+        "points": 3502,
+        "name": "bot7",
+        "bet": 1363,
+        "choice": "head"
+      },
+      {
+        "points": 17,
+        "name": "bot8",
+        "bet": 12,
+        "choice": "tails"
+      },
+      {
+        "points": 8453,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot6",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 33,
+    "PLAYERS": [
+      {
+        "points": 451,
+        "name": "bot1",
+        "bet": 407,
+        "choice": "tails"
+      },
+      {
+        "points": 9,
+        "name": "bot3",
+        "bet": 14,
+        "choice": "head"
+      },
+      {
+        "points": 4365,
+        "name": "bot5",
+        "bet": 3653,
+        "choice": "tails"
+      },
+      {
+        "points": 7,
+        "name": "bot6",
+        "bet": 7,
+        "choice": "head"
+      },
+      {
+        "points": 3641,
+        "name": "bot7",
+        "bet": 3067,
+        "choice": "tails"
+      },
+      {
+        "points": 14,
+        "name": "bot8",
+        "bet": 3,
+        "choice": "head"
+      },
+      {
+        "points": 8153,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot5",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 34,
+    "PLAYERS": [
+      {
+        "points": 327,
+        "name": "bot1",
+        "bet": 124,
+        "choice": "head"
+      },
+      {
+        "points": 30,
+        "name": "bot3",
+        "bet": 5,
+        "choice": "tails"
+      },
+      {
+        "points": 1429,
+        "name": "bot5",
+        "bet": 2936,
+        "choice": "head"
+      },
+      {
+        "points": 37,
+        "name": "bot6",
+        "bet": 7,
+        "choice": "tails"
+      },
+      {
+        "points": 6911,
+        "name": "bot7",
+        "bet": 767,
+        "choice": "tails"
+      },
+      {
+        "points": 52,
+        "name": "bot8",
+        "bet": 9,
+        "choice": "tails"
+      },
+      {
+        "points": 7853,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot6",
+      "bot7",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 35,
+    "PLAYERS": [
+      {
+        "points": 231,
+        "name": "bot1",
+        "bet": 96,
+        "choice": "tails"
+      },
+      {
+        "points": 66,
+        "name": "bot3",
+        "bet": 3,
+        "choice": "head"
+      },
+      {
+        "points": 515,
+        "name": "bot5",
+        "bet": 914,
+        "choice": "tails"
+      },
+      {
+        "points": 4,
+        "name": "bot6",
+        "bet": 33,
+        "choice": "tails"
+      },
+      {
+        "points": 4042,
+        "name": "bot7",
+        "bet": 2869,
+        "choice": "tails"
+      },
+      {
+        "points": 294,
+        "name": "bot8",
+        "bet": 20,
+        "choice": "head"
+      },
+      {
+        "points": 11486,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 36,
+    "PLAYERS": [
+      {
+        "points": 2123,
+        "name": "bot1",
+        "bet": 156,
+        "choice": "tails"
+      },
+      {
+        "points": 406,
+        "name": "bot3",
+        "bet": 28,
+        "choice": "tails"
+      },
+      {
+        "points": 140,
+        "name": "bot5",
+        "bet": 375,
+        "choice": "head"
+      },
+      {
+        "points": 3,
+        "name": "bot6",
+        "bet": 1,
+        "choice": "head"
+      },
+      {
+        "points": 62,
+        "name": "bot7",
+        "bet": 3980,
+        "choice": "head"
+      },
+      {
+        "points": 2719,
+        "name": "bot8",
+        "bet": 200,
+        "choice": "tails"
+      },
+      {
+        "points": 11186,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 37,
+    "PLAYERS": [
+      {
+        "points": 2553,
+        "name": "bot1",
+        "bet": 21,
+        "choice": "tails"
+      },
+      {
+        "points": 312,
+        "name": "bot3",
+        "bet": 94,
+        "choice": "head"
+      },
+      {
+        "points": 406,
+        "name": "bot5",
+        "bet": 13,
+        "choice": "tails"
+      },
+      {
+        "points": 23,
+        "name": "bot6",
+        "bet": 1,
+        "choice": "tails"
+      },
+      {
+        "points": 1230,
+        "name": "bot7",
+        "bet": 57,
+        "choice": "tails"
+      },
+      {
+        "points": 1228,
+        "name": "bot8",
+        "bet": 1491,
+        "choice": "head"
+      },
+      {
+        "points": 10886,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot5",
+      "bot6",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 38,
+    "PLAYERS": [
+      {
+        "points": 1666,
+        "name": "bot1",
+        "bet": 887,
+        "choice": "tails"
+      },
+      {
+        "points": 469,
+        "name": "bot3",
+        "bet": 47,
+        "choice": "head"
+      },
+      {
+        "points": 62,
+        "name": "bot5",
+        "bet": 344,
+        "choice": "tails"
+      },
+      {
+        "points": 15,
+        "name": "bot6",
+        "bet": 8,
+        "choice": "tails"
+      },
+      {
+        "points": 1961,
+        "name": "bot7",
+        "bet": 219,
+        "choice": "head"
+      },
+      {
+        "points": 579,
+        "name": "bot8",
+        "bet": 649,
+        "choice": "tails"
+      },
+      {
+        "points": 11887,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 39,
+    "PLAYERS": [
+      {
+        "points": 1487,
+        "name": "bot1",
+        "bet": 179,
+        "choice": "tails"
+      },
+      {
+        "points": 688,
+        "name": "bot3",
+        "bet": 383,
+        "choice": "head"
+      },
+      {
+        "points": 73,
+        "name": "bot5",
+        "bet": 19,
+        "choice": "head"
+      },
+      {
+        "points": 12,
+        "name": "bot6",
+        "bet": 3,
+        "choice": "tails"
+      },
+      {
+        "points": 2304,
+        "name": "bot7",
+        "bet": 600,
+        "choice": "head"
+      },
+      {
+        "points": 17,
+        "name": "bot8",
+        "bet": 562,
+        "choice": "tails"
+      },
+      {
+        "points": 12058,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "bot5",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 40,
+    "PLAYERS": [
+      {
+        "points": 2786,
+        "name": "bot1",
+        "bet": 1002,
+        "choice": "head"
+      },
+      {
+        "points": 674,
+        "name": "bot3",
+        "bet": 14,
+        "choice": "tails"
+      },
+      {
+        "points": 91,
+        "name": "bot5",
+        "bet": 14,
+        "choice": "head"
+      },
+      {
+        "points": 0,
+        "name": "bot6",
+        "bet": 12,
+        "choice": "tails"
+      },
+      {
+        "points": 620,
+        "name": "bot7",
+        "bet": 1684,
+        "choice": "tails"
+      },
+      {
+        "points": 21,
+        "name": "bot8",
+        "bet": 3,
+        "choice": "head"
+      },
+      {
+        "points": 12447,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot5",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 41,
+    "PLAYERS": [
+      {
+        "points": 2724,
+        "name": "bot1",
+        "bet": 62,
+        "choice": "head"
+      },
+      {
+        "points": 119,
+        "name": "bot3",
+        "bet": 555,
+        "choice": "head"
+      },
+      {
+        "points": 112,
+        "name": "bot5",
+        "bet": 39,
+        "choice": "tails"
+      },
+      {
+        "points": 3193,
+        "name": "bot7",
+        "bet": 1684,
+        "choice": "tails"
+      },
+      {
+        "points": 28,
+        "name": "bot8",
+        "bet": 14,
+        "choice": "tails"
+      },
+      {
+        "points": 12147,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot5",
+      "bot7",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 42,
+    "PLAYERS": [
+      {
+        "points": 4745,
+        "name": "bot1",
+        "bet": 1444,
+        "choice": "tails"
+      },
+      {
+        "points": 93,
+        "name": "bot3",
+        "bet": 26,
+        "choice": "head"
+      },
+      {
+        "points": 179,
+        "name": "bot5",
+        "bet": 48,
+        "choice": "tails"
+      },
+      {
+        "points": 1433,
+        "name": "bot7",
+        "bet": 1760,
+        "choice": "head"
+      },
+      {
+        "points": 26,
+        "name": "bot8",
+        "bet": 2,
+        "choice": "head"
+      },
+      {
+        "points": 11847,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot5"
+    ]
+  }
+],[
+  {
+    "ROUND": 43,
+    "PLAYERS": [
+      {
+        "points": 5084,
+        "name": "bot1",
+        "bet": 1593,
+        "choice": "tails"
+      },
+      {
+        "points": 33,
+        "name": "bot3",
+        "bet": 60,
+        "choice": "head"
+      },
+      {
+        "points": 212,
+        "name": "bot5",
+        "bet": 157,
+        "choice": "tails"
+      },
+      {
+        "points": 1433,
+        "name": "bot7",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 14,
+        "name": "bot8",
+        "bet": 12,
+        "choice": "head"
+      },
+      {
+        "points": 11547,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot5"
+    ]
+  }
+],[
+  {
+    "ROUND": 44,
+    "PLAYERS": [
+      {
+        "points": 5152,
+        "name": "bot1",
+        "bet": 1443,
+        "choice": "head"
+      },
+      {
+        "points": 34,
+        "name": "bot3",
+        "bet": 20,
+        "choice": "head"
+      },
+      {
+        "points": 84,
+        "name": "bot5",
+        "bet": 128,
+        "choice": "tails"
+      },
+      {
+        "points": 1477,
+        "name": "bot7",
+        "bet": 932,
+        "choice": "head"
+      },
+      {
+        "points": 15,
+        "name": "bot8",
+        "bet": 12,
+        "choice": "head"
+      },
+      {
+        "points": 11561,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot7",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 45,
+    "PLAYERS": [
+      {
+        "points": 5363,
+        "name": "bot1",
+        "bet": 1601,
+        "choice": "tails"
+      },
+      {
+        "points": 38,
+        "name": "bot3",
+        "bet": 31,
+        "choice": "tails"
+      },
+      {
+        "points": 92,
+        "name": "bot5",
+        "bet": 60,
+        "choice": "tails"
+      },
+      {
+        "points": 1561,
+        "name": "bot7",
+        "bet": 636,
+        "choice": "tails"
+      },
+      {
+        "points": 8,
+        "name": "bot8",
+        "bet": 7,
+        "choice": "head"
+      },
+      {
+        "points": 11261,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot5",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 46,
+    "PLAYERS": [
+      {
+        "points": 6043,
+        "name": "bot1",
+        "bet": 1911,
+        "choice": "head"
+      },
+      {
+        "points": 45,
+        "name": "bot3",
+        "bet": 21,
+        "choice": "head"
+      },
+      {
+        "points": 51,
+        "name": "bot5",
+        "bet": 41,
+        "choice": "tails"
+      },
+      {
+        "points": 806,
+        "name": "bot7",
+        "bet": 755,
+        "choice": "tails"
+      },
+      {
+        "points": 10,
+        "name": "bot8",
+        "bet": 6,
+        "choice": "head"
+      },
+      {
+        "points": 11368,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 47,
+    "PLAYERS": [
+      {
+        "points": 746,
+        "name": "bot1",
+        "bet": 5297,
+        "choice": "tails"
+      },
+      {
+        "points": 37,
+        "name": "bot3",
+        "bet": 8,
+        "choice": "tails"
+      },
+      {
+        "points": 2,
+        "name": "bot5",
+        "bet": 49,
+        "choice": "tails"
+      },
+      {
+        "points": 3653,
+        "name": "bot7",
+        "bet": 344,
+        "choice": "head"
+      },
+      {
+        "points": 35,
+        "name": "bot8",
+        "bet": 3,
+        "choice": "head"
+      },
+      {
+        "points": 13851,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot7",
+      "bot8",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 48,
+    "PLAYERS": [
+      {
+        "points": 1167,
+        "name": "bot1",
+        "bet": 255,
+        "choice": "tails"
+      },
+      {
+        "points": 10,
+        "name": "bot3",
+        "bet": 27,
+        "choice": "head"
+      },
+      {
+        "points": 5,
+        "name": "bot5",
+        "bet": 2,
+        "choice": "tails"
+      },
+      {
+        "points": 3523,
+        "name": "bot7",
+        "bet": 130,
+        "choice": "head"
+      },
+      {
+        "points": 68,
+        "name": "bot8",
+        "bet": 20,
+        "choice": "tails"
+      },
+      {
+        "points": 13551,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot5",
+      "bot8"
+    ]
+  }
+],[
+  {
+    "ROUND": 49,
+    "PLAYERS": [
+      {
+        "points": 585,
+        "name": "bot1",
+        "bet": 582,
+        "choice": "head"
+      },
+      {
+        "points": 3,
+        "name": "bot3",
+        "bet": 7,
+        "choice": "head"
+      },
+      {
+        "points": 0,
+        "name": "bot5",
+        "bet": 5,
+        "choice": "head"
+      },
+      {
+        "points": 2084,
+        "name": "bot7",
+        "bet": 1439,
+        "choice": "head"
+      },
+      {
+        "points": 10,
+        "name": "bot8",
+        "bet": 58,
+        "choice": "head"
+      },
+      {
+        "points": 13251,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 50,
+    "PLAYERS": [
+      {
+        "points": 2294,
+        "name": "bot1",
+        "bet": 129,
+        "choice": "tails"
+      },
+      {
+        "points": 43,
+        "name": "bot3",
+        "bet": 3,
+        "choice": "tails"
+      },
+      {
+        "points": 2084,
+        "name": "bot7",
+        "bet": 1439,
+        "choice": "head"
+      },
+      {
+        "points": 0,
+        "name": "bot8",
+        "bet": 10,
+        "choice": "head"
+      },
+      {
+        "points": 12951,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3"
+    ]
+  }
+],[
+  {
+    "ROUND": 51,
+    "PLAYERS": [
+      {
+        "points": 587,
+        "name": "bot1",
+        "bet": 1707,
+        "choice": "tails"
+      },
+      {
+        "points": 43,
+        "name": "bot3",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 3429,
+        "name": "bot7",
+        "bet": 1116,
+        "choice": "head"
+      },
+      {
+        "points": 13313,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 52,
+    "PLAYERS": [
+      {
+        "points": 500,
+        "name": "bot1",
+        "bet": 87,
+        "choice": "head"
+      },
+      {
+        "points": 44,
+        "name": "bot3",
+        "bet": 3,
+        "choice": "tails"
+      },
+      {
+        "points": 3815,
+        "name": "bot7",
+        "bet": 2206,
+        "choice": "tails"
+      },
+      {
+        "points": 13013,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 53,
+    "PLAYERS": [
+      {
+        "points": 176,
+        "name": "bot1",
+        "bet": 324,
+        "choice": "head"
+      },
+      {
+        "points": 1225,
+        "name": "bot3",
+        "bet": 13,
+        "choice": "tails"
+      },
+      {
+        "points": 3258,
+        "name": "bot7",
+        "bet": 557,
+        "choice": "head"
+      },
+      {
+        "points": 12713,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3"
+    ]
+  }
+],[
+  {
+    "ROUND": 54,
+    "PLAYERS": [
+      {
+        "points": 176,
+        "name": "bot1",
+        "bet": 105,
+        "choice": "head"
+      },
+      {
+        "points": 1225,
+        "name": "bot3",
+        "bet": 698,
+        "choice": "head"
+      },
+      {
+        "points": 3258,
+        "name": "bot7",
+        "bet": 1018,
+        "choice": "head"
+      },
+      {
+        "points": 12713,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 55,
+    "PLAYERS": [
+      {
+        "points": 53,
+        "name": "bot1",
+        "bet": 123,
+        "choice": "tails"
+      },
+      {
+        "points": 778,
+        "name": "bot3",
+        "bet": 447,
+        "choice": "tails"
+      },
+      {
+        "points": 2534,
+        "name": "bot7",
+        "bet": 724,
+        "choice": "tails"
+      },
+      {
+        "points": 14007,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 56,
+    "PLAYERS": [
+      {
+        "points": 297,
+        "name": "bot1",
+        "bet": 28,
+        "choice": "head"
+      },
+      {
+        "points": 119,
+        "name": "bot3",
+        "bet": 659,
+        "choice": "tails"
+      },
+      {
+        "points": 336,
+        "name": "bot7",
+        "bet": 2198,
+        "choice": "tails"
+      },
+      {
+        "points": 16620,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 57,
+    "PLAYERS": [
+      {
+        "points": 74,
+        "name": "bot1",
+        "bet": 223,
+        "choice": "tails"
+      },
+      {
+        "points": 128,
+        "name": "bot3",
+        "bet": 28,
+        "choice": "head"
+      },
+      {
+        "points": 448,
+        "name": "bot7",
+        "bet": 332,
+        "choice": "head"
+      },
+      {
+        "points": 16721,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 58,
+    "PLAYERS": [
+      {
+        "points": 611,
+        "name": "bot1",
+        "bet": 39,
+        "choice": "tails"
+      },
+      {
+        "points": 156,
+        "name": "bot3",
+        "bet": 2,
+        "choice": "tails"
+      },
+      {
+        "points": 183,
+        "name": "bot7",
+        "bet": 265,
+        "choice": "head"
+      },
+      {
+        "points": 16421,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3"
+    ]
+  }
+],[
+  {
+    "ROUND": 59,
+    "PLAYERS": [
+      {
+        "points": 325,
+        "name": "bot1",
+        "bet": 286,
+        "choice": "head"
+      },
+      {
+        "points": 255,
+        "name": "bot3",
+        "bet": 37,
+        "choice": "tails"
+      },
+      {
+        "points": 670,
+        "name": "bot7",
+        "bet": 182,
+        "choice": "tails"
+      },
+      {
+        "points": 16121,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 60,
+    "PLAYERS": [
+      {
+        "points": 401,
+        "name": "bot1",
+        "bet": 251,
+        "choice": "head"
+      },
+      {
+        "points": 315,
+        "name": "bot3",
+        "bet": 200,
+        "choice": "head"
+      },
+      {
+        "points": 443,
+        "name": "bot7",
+        "bet": 227,
+        "choice": "tails"
+      },
+      {
+        "points": 16212,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 61,
+    "PLAYERS": [
+      {
+        "points": 274,
+        "name": "bot1",
+        "bet": 127,
+        "choice": "head"
+      },
+      {
+        "points": 224,
+        "name": "bot3",
+        "bet": 91,
+        "choice": "head"
+      },
+      {
+        "points": 293,
+        "name": "bot7",
+        "bet": 150,
+        "choice": "head"
+      },
+      {
+        "points": 15912,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 62,
+    "PLAYERS": [
+      {
+        "points": 351,
+        "name": "bot1",
+        "bet": 74,
+        "choice": "tails"
+      },
+      {
+        "points": 405,
+        "name": "bot3",
+        "bet": 174,
+        "choice": "tails"
+      },
+      {
+        "points": 335,
+        "name": "bot7",
+        "bet": 40,
+        "choice": "tails"
+      },
+      {
+        "points": 15612,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 63,
+    "PLAYERS": [
+      {
+        "points": 127,
+        "name": "bot1",
+        "bet": 224,
+        "choice": "head"
+      },
+      {
+        "points": 1037,
+        "name": "bot3",
+        "bet": 80,
+        "choice": "tails"
+      },
+      {
+        "points": 227,
+        "name": "bot7",
+        "bet": 108,
+        "choice": "head"
+      },
+      {
+        "points": 15312,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3"
+    ]
+  }
+],[
+  {
+    "ROUND": 64,
+    "PLAYERS": [
+      {
+        "points": 177,
+        "name": "bot1",
+        "bet": 52,
+        "choice": "head"
+      },
+      {
+        "points": 536,
+        "name": "bot3",
+        "bet": 501,
+        "choice": "tails"
+      },
+      {
+        "points": 388,
+        "name": "bot7",
+        "bet": 167,
+        "choice": "head"
+      },
+      {
+        "points": 15602,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 65,
+    "PLAYERS": [
+      {
+        "points": 155,
+        "name": "bot1",
+        "bet": 22,
+        "choice": "tails"
+      },
+      {
+        "points": 355,
+        "name": "bot3",
+        "bet": 181,
+        "choice": "tails"
+      },
+      {
+        "points": 185,
+        "name": "bot7",
+        "bet": 203,
+        "choice": "tails"
+      },
+      {
+        "points": 16008,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 66,
+    "PLAYERS": [
+      {
+        "points": 183,
+        "name": "bot1",
+        "bet": 33,
+        "choice": "tails"
+      },
+      {
+        "points": 654,
+        "name": "bot3",
+        "bet": 346,
+        "choice": "tails"
+      },
+      {
+        "points": 158,
+        "name": "bot7",
+        "bet": 27,
+        "choice": "head"
+      },
+      {
+        "points": 15708,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1",
+      "bot3"
+    ]
+  }
+],[
+  {
+    "ROUND": 67,
+    "PLAYERS": [
+      {
+        "points": 73,
+        "name": "bot1",
+        "bet": 110,
+        "choice": "tails"
+      },
+      {
+        "points": 114,
+        "name": "bot3",
+        "bet": 540,
+        "choice": "tails"
+      },
+      {
+        "points": 363,
+        "name": "bot7",
+        "bet": 138,
+        "choice": "head"
+      },
+      {
+        "points": 16153,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 68,
+    "PLAYERS": [
+      {
+        "points": 609,
+        "name": "bot1",
+        "bet": 61,
+        "choice": "tails"
+      },
+      {
+        "points": 21,
+        "name": "bot3",
+        "bet": 93,
+        "choice": "head"
+      },
+      {
+        "points": 220,
+        "name": "bot7",
+        "bet": 143,
+        "choice": "head"
+      },
+      {
+        "points": 15853,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot1"
+    ]
+  }
+],[
+  {
+    "ROUND": 69,
+    "PLAYERS": [
+      {
+        "points": 301,
+        "name": "bot1",
+        "bet": 308,
+        "choice": "tails"
+      },
+      {
+        "points": 8,
+        "name": "bot3",
+        "bet": 13,
+        "choice": "tails"
+      },
+      {
+        "points": 196,
+        "name": "bot7",
+        "bet": 24,
+        "choice": "tails"
+      },
+      {
+        "points": 16198,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 70,
+    "PLAYERS": [
+      {
+        "points": 329,
+        "name": "bot1",
+        "bet": 82,
+        "choice": "head"
+      },
+      {
+        "points": 11,
+        "name": "bot3",
+        "bet": 8,
+        "choice": "head"
+      },
+      {
+        "points": 61,
+        "name": "bot7",
+        "bet": 135,
+        "choice": "tails"
+      },
+      {
+        "points": 16302,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "bot3",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 71,
+    "PLAYERS": [
+      {
+        "points": 116,
+        "name": "bot1",
+        "bet": 213,
+        "choice": "head"
+      },
+      {
+        "points": 11,
+        "name": "bot3",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 574,
+        "name": "bot7",
+        "bet": 55,
+        "choice": "tails"
+      },
+      {
+        "points": 16002,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 72,
+    "PLAYERS": [
+      {
+        "points": 138,
+        "name": "bot1",
+        "bet": 48,
+        "choice": "head"
+      },
+      {
+        "points": 10,
+        "name": "bot3",
+        "bet": 1,
+        "choice": "tails"
+      },
+      {
+        "points": 412,
+        "name": "bot7",
+        "bet": 162,
+        "choice": "tails"
+      },
+      {
+        "points": 16143,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot1",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 73,
+    "PLAYERS": [
+      {
+        "points": 23,
+        "name": "bot1",
+        "bet": 115,
+        "choice": "head"
+      },
+      {
+        "points": 652,
+        "name": "bot3",
+        "bet": 5,
+        "choice": "tails"
+      },
+      {
+        "points": 185,
+        "name": "bot7",
+        "bet": 227,
+        "choice": "head"
+      },
+      {
+        "points": 15843,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3"
+    ]
+  }
+],[
+  {
+    "ROUND": 74,
+    "PLAYERS": [
+      {
+        "points": 18,
+        "name": "bot1",
+        "bet": 5,
+        "choice": "tails"
+      },
+      {
+        "points": 656,
+        "name": "bot3",
+        "bet": 208,
+        "choice": "head"
+      },
+      {
+        "points": 180,
+        "name": "bot7",
+        "bet": 5,
+        "choice": "tails"
+      },
+      {
+        "points": 15849,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 75,
+    "PLAYERS": [
+      {
+        "points": 7,
+        "name": "bot1",
+        "bet": 11,
+        "choice": "head"
+      },
+      {
+        "points": 867,
+        "name": "bot3",
+        "bet": 239,
+        "choice": "tails"
+      },
+      {
+        "points": 280,
+        "name": "bot7",
+        "bet": 114,
+        "choice": "tails"
+      },
+      {
+        "points": 15549,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 76,
+    "PLAYERS": [
+      {
+        "points": 1,
+        "name": "bot1",
+        "bet": 6,
+        "choice": "head"
+      },
+      {
+        "points": 982,
+        "name": "bot3",
+        "bet": 167,
+        "choice": "tails"
+      },
+      {
+        "points": 471,
+        "name": "bot7",
+        "bet": 278,
+        "choice": "tails"
+      },
+      {
+        "points": 15249,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 77,
+    "PLAYERS": [
+      {
+        "points": 0,
+        "name": "bot1",
+        "bet": 1,
+        "choice": "head"
+      },
+      {
+        "points": 1156,
+        "name": "bot3",
+        "bet": 579,
+        "choice": "tails"
+      },
+      {
+        "points": 598,
+        "name": "bot7",
+        "bet": 422,
+        "choice": "tails"
+      },
+      {
+        "points": 14949,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 78,
+    "PLAYERS": [
+      {
+        "points": 1156,
+        "name": "bot3",
+        "bet": 579,
+        "choice": "tails"
+      },
+      {
+        "points": 193,
+        "name": "bot7",
+        "bet": 405,
+        "choice": "tails"
+      },
+      {
+        "points": 15933,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 79,
+    "PLAYERS": [
+      {
+        "points": 891,
+        "name": "bot3",
+        "bet": 265,
+        "choice": "tails"
+      },
+      {
+        "points": 192,
+        "name": "bot7",
+        "bet": 1,
+        "choice": "tails"
+      },
+      {
+        "points": 16199,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 80,
+    "PLAYERS": [
+      {
+        "points": 974,
+        "name": "bot3",
+        "bet": 520,
+        "choice": "head"
+      },
+      {
+        "points": 61,
+        "name": "bot7",
+        "bet": 131,
+        "choice": "tails"
+      },
+      {
+        "points": 16247,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 81,
+    "PLAYERS": [
+      {
+        "points": 974,
+        "name": "bot3",
+        "bet": 381,
+        "choice": "head"
+      },
+      {
+        "points": 61,
+        "name": "bot7",
+        "bet": 18,
+        "choice": "head"
+      },
+      {
+        "points": 16247,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "bot7",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 82,
+    "PLAYERS": [
+      {
+        "points": 1246,
+        "name": "bot3",
+        "bet": 279,
+        "choice": "tails"
+      },
+      {
+        "points": 89,
+        "name": "bot7",
+        "bet": 29,
+        "choice": "tails"
+      },
+      {
+        "points": 15947,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 83,
+    "PLAYERS": [
+      {
+        "points": 1496,
+        "name": "bot3",
+        "bet": 282,
+        "choice": "tails"
+      },
+      {
+        "points": 139,
+        "name": "bot7",
+        "bet": 57,
+        "choice": "tails"
+      },
+      {
+        "points": 15647,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 84,
+    "PLAYERS": [
+      {
+        "points": 1562,
+        "name": "bot3",
+        "bet": 1365,
+        "choice": "head"
+      },
+      {
+        "points": 59,
+        "name": "bot7",
+        "bet": 80,
+        "choice": "tails"
+      },
+      {
+        "points": 15661,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 85,
+    "PLAYERS": [
+      {
+        "points": 1861,
+        "name": "bot3",
+        "bet": 1425,
+        "choice": "tails"
+      },
+      {
+        "points": 60,
+        "name": "bot7",
+        "bet": 7,
+        "choice": "tails"
+      },
+      {
+        "points": 15361,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": [
+      "bot3",
+      "bot7"
+    ]
+  }
+],[
+  {
+    "ROUND": 86,
+    "PLAYERS": [
+      {
+        "points": 431,
+        "name": "bot3",
+        "bet": 1430,
+        "choice": "head"
+      },
+      {
+        "points": 0,
+        "name": "bot7",
+        "bet": 60,
+        "choice": "head"
+      },
+      {
+        "points": 15061,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 87,
+    "PLAYERS": [
+      {
+        "points": 169,
+        "name": "bot3",
+        "bet": 262,
+        "choice": "head"
+      },
+      {
+        "points": 14761,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 88,
+    "PLAYERS": [
+      {
+        "points": 44,
+        "name": "bot3",
+        "bet": 125,
+        "choice": "head"
+      },
+      {
+        "points": 14461,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 89,
+    "PLAYERS": [
+      {
+        "points": 44,
+        "name": "bot3",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 14161,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 90,
+    "PLAYERS": [
+      {
+        "points": 44,
+        "name": "bot3",
+        "bet": 23,
+        "choice": "head"
+      },
+      {
+        "points": 14161,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 91,
+    "PLAYERS": [
+      {
+        "points": 19,
+        "name": "bot3",
+        "bet": 25,
+        "choice": "head"
+      },
+      {
+        "points": 13861,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 92,
+    "PLAYERS": [
+      {
+        "points": 19,
+        "name": "bot3",
+        "bet": 10,
+        "choice": "head"
+      },
+      {
+        "points": 13861,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "bot3",
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 93,
+    "PLAYERS": [
+      {
+        "points": 2,
+        "name": "bot3",
+        "bet": 17,
+        "choice": "head"
+      },
+      {
+        "points": 13561,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 94,
+    "PLAYERS": [
+      {
+        "points": 1,
+        "name": "bot3",
+        "bet": 1,
+        "choice": "head"
+      },
+      {
+        "points": 13261,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 95,
+    "PLAYERS": [
+      {
+        "points": 1,
+        "name": "bot3",
+        "bet": 0,
+        "choice": "head"
+      },
+      {
+        "points": 12961,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 96,
+    "PLAYERS": [
+      {
+        "points": 1,
+        "name": "bot3",
+        "bet": 0,
+        "choice": "tails"
+      },
+      {
+        "points": 12961,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "Michael"
+    ]
+  }
+],[
+  {
+    "ROUND": 97,
+    "PLAYERS": [
+      {
+        "points": 0,
+        "name": "bot3",
+        "bet": 1,
+        "choice": "head"
+      },
+      {
+        "points": 12661,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "tails",
+    "WINNERS": []
+  }
+],[
+  {
+    "ROUND": 98,
+    "PLAYERS": [
+      {
+        "points": 12661,
+        "name": "Michael",
+        "bet": 300,
+        "choice": "head"
+      }
+    ],
+    "RESULT": "head",
+    "WINNERS": [
+      "Michael"
+    ]
+  }
+],

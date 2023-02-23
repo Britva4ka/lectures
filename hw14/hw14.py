@@ -1,4 +1,5 @@
 import math
+import json
 import random
 random.seed(19)
 class Player():
@@ -27,18 +28,29 @@ def create_bots(amount):
         bots.append(bot)
     return bots
 
-def game(players:list):
+def game(players:list, count):
     bank = 0
-    winners = []
     winnings = 0
+    winners = []
+    players_dict = []
     result = random.choice(['head', 'tails'])
     for player in players:
         bank += player.bet
         if player.choice == result:
             winnings += player.bet
     for player in players:
-        if player.choice == result:
+        if player.choice == result and player.bet != 0:
+            winners.append(player.name)
             player.change_points(round(player.bet / winnings * bank))
+        players_dict.append(vars(player))
+
+        # if player.points == 0:
+        #     players.remove(player)
+        #     print(f"{player} - ВЫБЫВАЕТ")
+    story = {"ROUND": count-1, "PLAYERS": players_dict, "RESULT": result, "WINNERS": winners},
+    with open('story.json', 'a') as f:
+        json.dump(story, f, indent=2)
+        f.write(',')
     print(result, players)
     return result, players
 
@@ -48,10 +60,14 @@ bots_list = create_bots(10)
 #Снизу доделать, сверху не трогать. Реализовать повтор 100 раз. Функцию АВТО. Запись игр. Вылет игроков. Валидацию.
 #Идеи: функция/цикл вайл/цикл фор.+
 auto = False
-count = 0
-while count < 100:
+count = 1
+while count < 101:
+    # players_list = bots_list + [PLAYER]
     if PLAYER.points == 0:
         print("U LOSE. HAHA")
+        break
+    if len(bots_list) == 0:
+        print("U WON")
         break
     print(f"ROUND {count}")
     for bot in bots_list:
@@ -60,6 +76,8 @@ while count < 100:
             print(f"{bot} ВЫБЫВАЕТ")
         else:
             bot.made_bet(random.randint(0, bot.points))
+            if bot.bet == 0:
+                print(f"{bot} - PASS")
             bot.made_choice(random.choice(['head', 'tails']))
 
     players_list = bots_list + [PLAYER]
@@ -69,12 +87,12 @@ while count < 100:
         while todo not in ['bet', 'auto']:
             todo = input(f"Incorrect input. You have {PLAYER.points}, what's your next move?(bet, auto)?: ")
         if todo == 'bet':
-            bet, choice = input(f"Make your bet (points and side) (100 head/tails)").split()
+            bet, choice = input(f"Make your bet (points and side) (100 head/tails): ").split()
             PLAYER.made_bet(int(bet))
             PLAYER.made_choice(choice)
             #TODO validate
         elif todo == 'auto':
-            bet, choice, num = input(f"Make your bet for next rounds (points/side/number of moves").split()
+            bet, choice, num = input(f"Make your bet for next rounds (points/side/number of moves): ").split()
             num = int(num)
             PLAYER.made_bet(int(bet))
             PLAYER.made_choice(choice)
@@ -82,7 +100,7 @@ while count < 100:
         count += 1
     else:
         if PLAYER.points < int(bet):
-            bet, choice = input(f"U have not enough points ({PLAYER.points}). Make new bet: (points side)").split()
+            bet, choice = input(f"U have not enough points ({PLAYER.points}). Make new bet: (points side) ").split()
             auto = False
         if num == 1:
             auto = False
@@ -91,7 +109,7 @@ while count < 100:
         num -= 1
         count += 1
 
-    game(players_list)
+    game(players_list, count)
 
 
 
