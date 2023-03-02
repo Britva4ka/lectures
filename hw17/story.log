@@ -1,0 +1,1533 @@
+INFO:root:Game started.
+INFO:root:ROUND 1
+INFO:root:(bot0, 610) make a bet 1083
+INFO:root:(bot0, 610) make a choice tails
+INFO:root:(bot1, 741) make a bet 303
+INFO:root:(bot1, 741) make a choice tails
+INFO:root:(bot2, 1583) make a bet 220
+INFO:root:(bot2, 1583) make a choice tails
+INFO:root:(bot3, 1073) make a bet 843
+INFO:root:(bot3, 1073) make a choice tails
+INFO:root:(bot4, 984) make a bet 548
+INFO:root:(bot4, 984) make a choice head
+INFO:root:(bot5, 457) make a bet 666
+INFO:root:(bot5, 457) make a choice tails
+INFO:root:(bot6, 1477) make a bet 46
+INFO:root:(bot6, 1477) make a choice head
+INFO:root:(bot7, 1060) make a bet 144
+INFO:root:(bot7, 1060) make a choice head
+INFO:root:(bot8, 1169) make a bet 233
+INFO:root:(bot8, 1169) make a choice tails
+INFO:root:(bot9, 560) make a bet 795
+INFO:root:(bot9, 560) make a choice head
+INFO:root:(Michael, 1000) makes bet 500 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot4, 2434) wins 1450
+INFO:root:(bot6, 1599) wins 122
+INFO:root:(bot7, 1441) wins 381
+INFO:root:(bot9, 2664) wins 2104
+INFO:root:(Michael, 2323) wins 1323
+INFO:root:ROUND 2
+INFO:root:(bot0, 186) make a bet 424
+INFO:root:(bot0, 186) make a choice head
+INFO:root:(bot1, 640) make a bet 101
+INFO:root:(bot1, 640) make a choice tails
+INFO:root:(bot2, 36) make a bet 1547
+INFO:root:(bot2, 36) make a choice tails
+INFO:root:(bot3, 172) make a bet 901
+INFO:root:(bot3, 172) make a choice tails
+INFO:root:(bot4, 97) make a bet 2337
+INFO:root:(bot4, 97) make a choice head
+INFO:root:(bot5, 52) make a bet 405
+INFO:root:(bot5, 52) make a choice tails
+INFO:root:(bot6, 1123) make a bet 476
+INFO:root:(bot6, 1123) make a choice head
+INFO:root:(bot7, 1017) make a bet 424
+INFO:root:(bot7, 1017) make a choice tails
+INFO:root:(bot8, 777) make a bet 392
+INFO:root:(bot8, 777) make a choice head
+INFO:root:(bot9, 2113) make a bet 551
+INFO:root:(bot9, 2113) make a choice tails
+INFO:root:(Michael, 1823) makes bet 500 on tails
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot0, 1127) wins 941
+INFO:root:(bot4, 5286) wins 5189
+INFO:root:(bot6, 2180) wins 1057
+INFO:root:(bot8, 1647) wins 870
+INFO:root:ROUND 3
+INFO:root:(bot0, 7) make a bet 1120
+INFO:root:(bot0, 7) make a choice tails
+INFO:root:(bot1, 633) make a bet 7
+INFO:root:(bot1, 633) make a choice tails
+INFO:root:(bot2, 6) make a bet 30
+INFO:root:(bot2, 6) make a choice head
+INFO:root:(bot3, 39) make a bet 133
+INFO:root:(bot3, 39) make a choice tails
+INFO:root:(bot4, 1190) make a bet 4096
+INFO:root:(bot4, 1190) make a choice tails
+INFO:root:(bot5, 29) make a bet 23
+INFO:root:(bot5, 29) make a choice tails
+INFO:root:(bot6, 1429) make a bet 751
+INFO:root:(bot6, 1429) make a choice head
+INFO:root:(bot7, 767) make a bet 250
+INFO:root:(bot7, 767) make a choice head
+INFO:root:(bot8, 1594) make a bet 53
+INFO:root:(bot8, 1594) make a choice tails
+INFO:root:(bot9, 571) make a bet 1542
+INFO:root:(bot9, 571) make a choice tails
+INFO:root:(Michael, 1523) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot2, 193) wins 187
+INFO:root:(bot6, 6115) wins 4686
+INFO:root:(bot7, 2327) wins 1560
+INFO:root:(Michael, 3395) wins 1872
+INFO:root:ROUND 4
+INFO:root:(bot0, 3) make a bet 4
+INFO:root:(bot0, 3) make a choice head
+INFO:root:(bot1, 146) make a bet 487
+INFO:root:(bot1, 146) make a choice tails
+INFO:root:(bot2, 78) make a bet 115
+INFO:root:(bot2, 78) make a choice tails
+INFO:root:(bot3, 21) make a bet 18
+INFO:root:(bot3, 21) make a choice head
+INFO:root:(bot4, 246) make a bet 944
+INFO:root:(bot4, 246) make a choice tails
+INFO:root:(bot5, 20) make a bet 9
+INFO:root:(bot5, 20) make a choice tails
+INFO:root:(bot6, 566) make a bet 5549
+INFO:root:(bot6, 566) make a choice head
+INFO:root:(bot7, 2011) make a bet 316
+INFO:root:(bot7, 2011) make a choice head
+INFO:root:(bot8, 957) make a bet 637
+INFO:root:(bot8, 957) make a choice tails
+INFO:root:(bot9, 468) make a bet 103
+INFO:root:(bot9, 468) make a choice tails
+INFO:root:(Michael, 3095) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot0, 8) wins 5
+INFO:root:(bot3, 46) wins 25
+INFO:root:(bot6, 8173) wins 7607
+INFO:root:(bot7, 2444) wins 433
+INFO:root:(Michael, 3506) wins 411
+INFO:root:ROUND 5
+INFO:root:(bot0, 1) make a bet 7
+INFO:root:(bot0, 1) make a choice tails
+INFO:root:(bot1, 142) make a bet 4
+INFO:root:(bot1, 142) make a choice head
+INFO:root:(bot2, 23) make a bet 55
+INFO:root:(bot2, 23) make a choice tails
+INFO:root:(bot3, 42) make a bet 4
+INFO:root:(bot3, 42) make a choice head
+INFO:root:(bot4, 214) make a bet 32
+INFO:root:(bot4, 214) make a choice head
+INFO:root:(bot5, 7) make a bet 13
+INFO:root:(bot5, 7) make a choice tails
+INFO:root:(bot6, 939) make a bet 7234
+INFO:root:(bot6, 939) make a choice tails
+INFO:root:(bot7, 1985) make a bet 459
+INFO:root:(bot7, 1985) make a choice head
+INFO:root:(bot8, 322) make a bet 635
+INFO:root:(bot8, 322) make a choice tails
+INFO:root:(bot9, 19) make a bet 449
+INFO:root:(bot9, 19) make a choice head
+INFO:root:(Michael, 3206) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 9) wins 8
+INFO:root:(bot2, 87) wins 64
+INFO:root:(bot5, 22) wins 15
+INFO:root:(bot6, 9309) wins 8370
+INFO:root:(bot8, 1057) wins 735
+INFO:root:ROUND 6
+INFO:root:(bot0, 7) make a bet 2
+INFO:root:(bot0, 7) make a choice head
+INFO:root:(bot1, 44) make a bet 98
+INFO:root:(bot1, 44) make a choice tails
+INFO:root:(bot2, 6) make a bet 81
+INFO:root:(bot2, 6) make a choice head
+INFO:root:(bot3, 6) make a bet 36
+INFO:root:(bot3, 6) make a choice tails
+INFO:root:(bot4, 150) make a bet 64
+INFO:root:(bot4, 150) make a choice head
+INFO:root:(bot5, 14) make a bet 8
+INFO:root:(bot5, 14) make a choice tails
+INFO:root:(bot6, 8301) make a bet 1008
+INFO:root:(bot6, 8301) make a choice head
+INFO:root:(bot7, 399) make a bet 1586
+INFO:root:(bot7, 399) make a choice tails
+INFO:root:(bot8, 626) make a bet 431
+INFO:root:(bot8, 626) make a choice head
+INFO:root:(bot9, 13) make a bet 6
+INFO:root:(bot9, 13) make a choice tails
+INFO:root:(Michael, 2906) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 249) wins 205
+INFO:root:(bot3, 81) wins 75
+INFO:root:(bot5, 31) wins 17
+INFO:root:(bot7, 3710) wins 3311
+INFO:root:(bot9, 26) wins 13
+INFO:root:ROUND 7
+INFO:root:(bot0, 5) make a bet 2
+INFO:root:(bot0, 5) make a choice tails
+INFO:root:(bot1, 44) make a bet 205
+INFO:root:(bot1, 44) make a choice tails
+INFO:root:(bot2, 2) make a bet 4
+INFO:root:(bot2, 2) make a choice tails
+INFO:root:(bot3, 14) make a bet 67
+INFO:root:(bot3, 14) make a choice tails
+INFO:root:(bot4, 21) make a bet 129
+INFO:root:(bot4, 21) make a choice tails
+INFO:root:(bot5, 1) make a bet 30
+INFO:root:(bot5, 1) make a choice head
+INFO:root:(bot6, 4637) make a bet 3664
+INFO:root:(bot6, 4637) make a choice head
+INFO:root:(bot7, 3550) make a bet 160
+INFO:root:(bot7, 3550) make a choice tails
+INFO:root:(bot8, 508) make a bet 118
+INFO:root:(bot8, 508) make a choice head
+INFO:root:(bot9, 18) make a bet 8
+INFO:root:(bot9, 18) make a choice tails
+INFO:root:(Michael, 2606) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 21) wins 16
+INFO:root:(bot1, 1715) wins 1671
+INFO:root:(bot2, 35) wins 33
+INFO:root:(bot3, 560) wins 546
+INFO:root:(bot4, 1073) wins 1052
+INFO:root:(bot7, 4854) wins 1304
+INFO:root:(bot9, 83) wins 65
+INFO:root:ROUND 8
+INFO:root:(bot0, 0) make a bet 21
+INFO:root:(bot0, 0) make a choice tails
+INFO:root:(bot1, 1040) make a bet 675
+INFO:root:(bot1, 1040) make a choice tails
+INFO:root:(bot2, 24) make a bet 11
+INFO:root:(bot2, 24) make a choice tails
+INFO:root:(bot3, 221) make a bet 339
+INFO:root:(bot3, 221) make a choice head
+INFO:root:(bot4, 152) make a bet 921
+INFO:root:(bot4, 152) make a choice tails
+INFO:root:(bot5, 1) make a bet 0
+INFO:root:(bot5, 1) make a choice tails
+INFO:root:(bot6, 3870) make a bet 767
+INFO:root:(bot6, 3870) make a choice tails
+INFO:root:(bot7, 1275) make a bet 3579
+INFO:root:(bot7, 1275) make a choice tails
+INFO:root:(bot8, 274) make a bet 234
+INFO:root:(bot8, 274) make a choice tails
+INFO:root:(bot9, 78) make a bet 5
+INFO:root:(bot9, 78) make a choice tails
+INFO:root:(Michael, 2306) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 23) wins 23
+INFO:root:(bot1, 1784) wins 744
+INFO:root:(bot2, 36) wins 12
+INFO:root:(bot4, 1168) wins 1016
+INFO:root:(bot6, 4716) wins 846
+INFO:root:(bot7, 5222) wins 3947
+INFO:root:(bot8, 532) wins 258
+INFO:root:(bot9, 84) wins 6
+INFO:root:ROUND 9
+INFO:root:(bot0, 15) make a bet 8
+INFO:root:(bot0, 15) make a choice head
+INFO:root:(bot1, 1321) make a bet 463
+INFO:root:(bot1, 1321) make a choice tails
+INFO:root:(bot2, 34) make a bet 2
+INFO:root:(bot2, 34) make a choice head
+INFO:root:(bot3, 179) make a bet 42
+INFO:root:(bot3, 179) make a choice tails
+INFO:root:(bot4, 33) make a bet 1135
+INFO:root:(bot4, 33) make a choice head
+INFO:root:(bot5, 1) make a bet 0
+INFO:root:(bot5, 1) make a choice head
+INFO:root:(bot6, 1145) make a bet 3571
+INFO:root:(bot6, 1145) make a choice head
+INFO:root:(bot7, 4075) make a bet 1147
+INFO:root:(bot7, 4075) make a choice tails
+INFO:root:(bot8, 281) make a bet 251
+INFO:root:(bot8, 281) make a choice head
+INFO:root:(bot9, 49) make a bet 35
+INFO:root:(bot9, 49) make a choice head
+INFO:root:(Michael, 2006) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot0, 25) wins 10
+INFO:root:(bot2, 37) wins 3
+INFO:root:(bot4, 1522) wins 1489
+INFO:root:(bot6, 5829) wins 4684
+INFO:root:(bot8, 610) wins 329
+INFO:root:(bot9, 95) wins 46
+INFO:root:(Michael, 2399) wins 393
+INFO:root:ROUND 10
+INFO:root:(bot0, 18) make a bet 7
+INFO:root:(bot0, 18) make a choice tails
+INFO:root:(bot1, 1073) make a bet 248
+INFO:root:(bot1, 1073) make a choice tails
+INFO:root:(bot2, 29) make a bet 8
+INFO:root:(bot2, 29) make a choice head
+INFO:root:(bot3, 2) make a bet 177
+INFO:root:(bot3, 2) make a choice tails
+INFO:root:(bot4, 886) make a bet 636
+INFO:root:(bot4, 886) make a choice tails
+INFO:root:(bot5, 1) make a bet 0
+INFO:root:(bot5, 1) make a choice tails
+INFO:root:(bot6, 4983) make a bet 846
+INFO:root:(bot6, 4983) make a choice head
+INFO:root:(bot7, 3017) make a bet 1058
+INFO:root:(bot7, 3017) make a choice head
+INFO:root:(bot8, 256) make a bet 354
+INFO:root:(bot8, 256) make a choice tails
+INFO:root:(bot9, 24) make a bet 71
+INFO:root:(bot9, 24) make a choice head
+INFO:root:(Michael, 2099) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 36) wins 18
+INFO:root:(bot1, 1719) wins 646
+INFO:root:(bot3, 463) wins 461
+INFO:root:(bot4, 2543) wins 1657
+INFO:root:(bot8, 1178) wins 922
+INFO:root:ROUND 11
+INFO:root:(bot0, 17) make a bet 19
+INFO:root:(bot0, 17) make a choice head
+INFO:root:(bot1, 525) make a bet 1194
+INFO:root:(bot1, 525) make a choice tails
+INFO:root:(bot2, 26) make a bet 3
+INFO:root:(bot2, 26) make a choice head
+INFO:root:(bot3, 149) make a bet 314
+INFO:root:(bot3, 149) make a choice head
+INFO:root:(bot4, 523) make a bet 2020
+INFO:root:(bot4, 523) make a choice head
+INFO:root:(bot5, 0) make a bet 1
+INFO:root:(bot5, 0) make a choice tails
+INFO:root:(bot6, 979) make a bet 4004
+INFO:root:(bot6, 979) make a choice tails
+INFO:root:(bot7, 1162) make a bet 1855
+INFO:root:(bot7, 1162) make a choice head
+INFO:root:(bot8, 102) make a bet 1076
+INFO:root:(bot8, 102) make a choice tails
+INFO:root:(bot9, 24) make a bet 0
+INFO:root:(bot9, 24) make a choice head
+INFO:root:(Michael, 1799) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 2577) wins 2052
+INFO:root:(bot5, 2) wins 2
+INFO:root:(bot6, 7861) wins 6882
+INFO:root:(bot8, 1952) wins 1850
+INFO:root:ROUND 12
+INFO:root:(bot0, 0) make a bet 17
+INFO:root:(bot0, 0) make a choice head
+INFO:root:(bot1, 2156) make a bet 421
+INFO:root:(bot1, 2156) make a choice tails
+INFO:root:(bot2, 13) make a bet 13
+INFO:root:(bot2, 13) make a choice head
+INFO:root:(bot3, 13) make a bet 136
+INFO:root:(bot3, 13) make a choice head
+INFO:root:(bot4, 364) make a bet 159
+INFO:root:(bot4, 364) make a choice tails
+INFO:root:(bot5, 2) make a bet 0
+INFO:root:(bot5, 2) make a choice tails
+INFO:root:(bot6, 7157) make a bet 704
+INFO:root:(bot6, 7157) make a choice tails
+INFO:root:(bot7, 340) make a bet 822
+INFO:root:(bot7, 340) make a choice tails
+INFO:root:(bot8, 742) make a bet 1210
+INFO:root:(bot8, 742) make a choice head
+INFO:root:(bot9, 6) make a bet 18
+INFO:root:(bot9, 6) make a choice head
+INFO:root:(Michael, 1499) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot0, 38) wins 38
+INFO:root:(bot2, 42) wins 29
+INFO:root:(bot3, 318) wins 305
+INFO:root:(bot8, 3456) wins 2714
+INFO:root:(bot9, 46) wins 40
+INFO:root:(Michael, 2172) wins 673
+INFO:root:ROUND 13
+INFO:root:(bot0, 33) make a bet 5
+INFO:root:(bot0, 33) make a choice tails
+INFO:root:(bot1, 1139) make a bet 1017
+INFO:root:(bot1, 1139) make a choice tails
+INFO:root:(bot2, 32) make a bet 10
+INFO:root:(bot2, 32) make a choice tails
+INFO:root:(bot3, 184) make a bet 134
+INFO:root:(bot3, 184) make a choice tails
+INFO:root:(bot4, 148) make a bet 216
+INFO:root:(bot4, 148) make a choice head
+INFO:root:(bot5, 2) make a bet 0
+INFO:root:(bot5, 2) make a choice head
+INFO:root:(bot6, 5742) make a bet 1415
+INFO:root:(bot6, 5742) make a choice tails
+INFO:root:(bot7, 331) make a bet 9
+INFO:root:(bot7, 331) make a choice tails
+INFO:root:(bot8, 959) make a bet 2497
+INFO:root:(bot8, 959) make a choice tails
+INFO:root:(bot9, 8) make a bet 38
+INFO:root:(bot9, 8) make a choice tails
+INFO:root:(Michael, 1872) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot4, 2509) wins 2361
+INFO:root:(Michael, 5152) wins 3280
+INFO:root:ROUND 14
+INFO:root:(bot0, 14) make a bet 19
+INFO:root:(bot0, 14) make a choice head
+INFO:root:(bot1, 995) make a bet 144
+INFO:root:(bot1, 995) make a choice tails
+INFO:root:(bot2, 31) make a bet 1
+INFO:root:(bot2, 31) make a choice head
+INFO:root:(bot3, 166) make a bet 18
+INFO:root:(bot3, 166) make a choice head
+INFO:root:(bot4, 2149) make a bet 360
+INFO:root:(bot4, 2149) make a choice tails
+INFO:root:(bot5, 2) make a bet 0
+INFO:root:(bot5, 2) make a choice head
+INFO:root:(bot6, 4975) make a bet 767
+INFO:root:(bot6, 4975) make a choice tails
+INFO:root:(bot7, 80) make a bet 251
+INFO:root:(bot7, 80) make a choice tails
+INFO:root:(bot8, 578) make a bet 381
+INFO:root:(bot8, 578) make a choice tails
+INFO:root:(bot9, 4) make a bet 4
+INFO:root:(bot9, 4) make a choice head
+INFO:root:(Michael, 4852) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot0, 139) wins 125
+INFO:root:(bot2, 38) wins 7
+INFO:root:(bot3, 284) wins 118
+INFO:root:(bot9, 30) wins 26
+INFO:root:(Michael, 6821) wins 1969
+INFO:root:ROUND 15
+INFO:root:(bot0, 125) make a bet 14
+INFO:root:(bot0, 125) make a choice head
+INFO:root:(bot1, 624) make a bet 371
+INFO:root:(bot1, 624) make a choice head
+INFO:root:(bot2, 31) make a bet 7
+INFO:root:(bot2, 31) make a choice tails
+INFO:root:(bot3, 34) make a bet 250
+INFO:root:(bot3, 34) make a choice tails
+INFO:root:(bot4, 1117) make a bet 1032
+INFO:root:(bot4, 1117) make a choice tails
+INFO:root:(bot5, 2) make a bet 0
+INFO:root:(bot5, 2) make a choice head
+INFO:root:(bot6, 4694) make a bet 281
+INFO:root:(bot6, 4694) make a choice head
+INFO:root:(bot7, 46) make a bet 34
+INFO:root:(bot7, 46) make a choice tails
+INFO:root:(bot8, 256) make a bet 322
+INFO:root:(bot8, 256) make a choice head
+INFO:root:(bot9, 24) make a bet 6
+INFO:root:(bot9, 24) make a choice tails
+INFO:root:(Michael, 6521) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot0, 153) wins 28
+INFO:root:(bot1, 1378) wins 754
+INFO:root:(bot6, 5265) wins 571
+INFO:root:(bot8, 910) wins 654
+INFO:root:(Michael, 7131) wins 610
+INFO:root:ROUND 16
+INFO:root:(bot0, 147) make a bet 6
+INFO:root:(bot0, 147) make a choice tails
+INFO:root:(bot1, 913) make a bet 465
+INFO:root:(bot1, 913) make a choice head
+INFO:root:(bot2, 20) make a bet 11
+INFO:root:(bot2, 20) make a choice head
+INFO:root:(bot3, 10) make a bet 24
+INFO:root:(bot3, 10) make a choice head
+INFO:root:(bot4, 23) make a bet 1094
+INFO:root:(bot4, 23) make a choice head
+INFO:root:(bot5, 2) make a bet 0
+INFO:root:(bot5, 2) make a choice tails
+INFO:root:(bot6, 4426) make a bet 839
+INFO:root:(bot6, 4426) make a choice head
+INFO:root:(bot7, 5) make a bet 41
+INFO:root:(bot7, 5) make a choice tails
+INFO:root:(bot8, 368) make a bet 542
+INFO:root:(bot8, 368) make a choice tails
+INFO:root:(bot9, 18) make a bet 6
+INFO:root:(bot9, 18) make a choice head
+INFO:root:(Michael, 6831) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 181) wins 34
+INFO:root:(bot7, 237) wins 232
+INFO:root:(bot8, 3430) wins 3062
+INFO:root:ROUND 17
+INFO:root:(bot0, 93) make a bet 88
+INFO:root:(bot0, 93) make a choice head
+INFO:root:(bot1, 588) make a bet 325
+INFO:root:(bot1, 588) make a choice head
+INFO:root:(bot2, 0) make a bet 20
+INFO:root:(bot2, 0) make a choice head
+INFO:root:(bot3, 10) make a bet 0
+INFO:root:(bot3, 10) make a choice head
+INFO:root:(bot4, 1) make a bet 22
+INFO:root:(bot4, 1) make a choice tails
+INFO:root:(bot5, 1) make a bet 1
+INFO:root:(bot5, 1) make a choice tails
+INFO:root:(bot6, 591) make a bet 3835
+INFO:root:(bot6, 591) make a choice head
+INFO:root:(bot7, 61) make a bet 176
+INFO:root:(bot7, 61) make a choice head
+INFO:root:(bot8, 591) make a bet 2839
+INFO:root:(bot8, 591) make a choice tails
+INFO:root:(bot9, 2) make a bet 16
+INFO:root:(bot9, 2) make a choice head
+INFO:root:(Michael, 6531) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot4, 60) wins 59
+INFO:root:(bot5, 4) wins 3
+INFO:root:(bot8, 8152) wins 7561
+INFO:root:ROUND 18
+INFO:root:(bot0, 19) make a bet 74
+INFO:root:(bot0, 19) make a choice tails
+INFO:root:(bot1, 56) make a bet 532
+INFO:root:(bot1, 56) make a choice tails
+WARNING:root:(bot2, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(bot4, 3) make a bet 57
+INFO:root:(bot4, 3) make a choice tails
+INFO:root:(bot5, 1) make a bet 3
+INFO:root:(bot5, 1) make a choice tails
+INFO:root:(bot6, 495) make a bet 96
+INFO:root:(bot6, 495) make a choice tails
+INFO:root:(bot7, 53) make a bet 8
+INFO:root:(bot7, 53) make a choice tails
+INFO:root:(bot8, 6933) make a bet 1219
+INFO:root:(bot8, 6933) make a choice head
+INFO:root:(bot9, 0) make a bet 2
+INFO:root:(bot9, 0) make a choice tails
+INFO:root:(Michael, 6231) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot8, 8772) wins 1839
+INFO:root:(Michael, 6683) wins 452
+INFO:root:ROUND 19
+INFO:root:(bot0, 12) make a bet 7
+INFO:root:(bot0, 12) make a choice head
+INFO:root:(bot1, 9) make a bet 47
+INFO:root:(bot1, 9) make a choice head
+INFO:root:(bot3, 5) make a bet 5
+INFO:root:(bot3, 5) make a choice head
+INFO:root:(bot4, 0) make a bet 3
+INFO:root:(bot4, 0) make a choice tails
+INFO:root:(bot5, 0) make a bet 1
+INFO:root:(bot5, 0) make a choice head
+INFO:root:(bot6, 232) make a bet 263
+INFO:root:(bot6, 232) make a choice tails
+INFO:root:(bot7, 51) make a bet 2
+INFO:root:(bot7, 51) make a choice head
+INFO:root:(bot8, 8391) make a bet 381
+INFO:root:(bot8, 8391) make a choice tails
+WARNING:root:(bot9, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(Michael, 6383) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot0, 32) wins 20
+INFO:root:(bot1, 140) wins 131
+INFO:root:(bot3, 19) wins 14
+INFO:root:(bot5, 3) wins 3
+INFO:root:(bot7, 57) wins 6
+INFO:root:(Michael, 7219) wins 836
+INFO:root:ROUND 20
+INFO:root:(bot0, 11) make a bet 21
+INFO:root:(bot0, 11) make a choice tails
+INFO:root:(bot1, 28) make a bet 112
+INFO:root:(bot1, 28) make a choice head
+INFO:root:(bot3, 11) make a bet 8
+INFO:root:(bot3, 11) make a choice head
+WARNING:root:(bot4, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(bot6, 29) make a bet 203
+INFO:root:(bot6, 29) make a choice tails
+INFO:root:(bot7, 4) make a bet 53
+INFO:root:(bot7, 4) make a choice tails
+INFO:root:(bot8, 3381) make a bet 5010
+INFO:root:(bot8, 3381) make a choice tails
+INFO:root:(Michael, 6919) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 34) wins 23
+INFO:root:(bot6, 248) wins 219
+INFO:root:(bot7, 61) wins 57
+INFO:root:(bot8, 8790) wins 5409
+INFO:root:ROUND 21
+INFO:root:(bot0, 16) make a bet 18
+INFO:root:(bot0, 16) make a choice tails
+INFO:root:(bot1, 16) make a bet 12
+INFO:root:(bot1, 16) make a choice head
+INFO:root:(bot3, 8) make a bet 3
+INFO:root:(bot3, 8) make a choice head
+INFO:root:(bot5, 1) make a bet 2
+INFO:root:(bot5, 1) make a choice head
+INFO:root:(bot6, 200) make a bet 48
+INFO:root:(bot6, 200) make a choice head
+INFO:root:(bot7, 12) make a bet 49
+INFO:root:(bot7, 12) make a choice head
+INFO:root:(bot8, 8229) make a bet 561
+INFO:root:(bot8, 8229) make a choice tails
+INFO:root:(Michael, 6619) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 45) wins 29
+INFO:root:(bot3, 15) wins 7
+INFO:root:(bot5, 6) wins 5
+INFO:root:(bot6, 315) wins 115
+INFO:root:(bot7, 130) wins 118
+INFO:root:(Michael, 7339) wins 720
+INFO:root:ROUND 22
+INFO:root:(bot0, 5) make a bet 11
+INFO:root:(bot0, 5) make a choice tails
+INFO:root:(bot1, 15) make a bet 30
+INFO:root:(bot1, 15) make a choice tails
+INFO:root:(bot3, 3) make a bet 12
+INFO:root:(bot3, 3) make a choice tails
+INFO:root:(bot5, 3) make a bet 3
+INFO:root:(bot5, 3) make a choice tails
+INFO:root:(bot6, 280) make a bet 35
+INFO:root:(bot6, 280) make a choice head
+INFO:root:(bot7, 40) make a bet 90
+INFO:root:(bot7, 40) make a choice tails
+INFO:root:(bot8, 5671) make a bet 2558
+INFO:root:(bot8, 5671) make a choice head
+INFO:root:(Michael, 7039) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 234) wins 229
+INFO:root:(bot1, 639) wins 624
+INFO:root:(bot3, 253) wins 250
+INFO:root:(bot5, 65) wins 62
+INFO:root:(bot7, 1913) wins 1873
+INFO:root:ROUND 23
+INFO:root:(bot0, 196) make a bet 38
+INFO:root:(bot0, 196) make a choice tails
+INFO:root:(bot1, 360) make a bet 279
+INFO:root:(bot1, 360) make a choice tails
+INFO:root:(bot3, 127) make a bet 126
+INFO:root:(bot3, 127) make a choice tails
+INFO:root:(bot5, 42) make a bet 23
+INFO:root:(bot5, 42) make a choice tails
+INFO:root:(bot6, 100) make a bet 180
+INFO:root:(bot6, 100) make a choice head
+INFO:root:(bot7, 1042) make a bet 871
+INFO:root:(bot7, 1042) make a choice tails
+INFO:root:(bot8, 3406) make a bet 2265
+INFO:root:(bot8, 3406) make a choice head
+INFO:root:(Michael, 6739) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 312) wins 116
+INFO:root:(bot1, 1212) wins 852
+INFO:root:(bot3, 512) wins 385
+INFO:root:(bot5, 112) wins 70
+INFO:root:(bot7, 3701) wins 2659
+INFO:root:ROUND 24
+INFO:root:(bot0, 272) make a bet 40
+INFO:root:(bot0, 272) make a choice tails
+INFO:root:(bot1, 195) make a bet 1017
+INFO:root:(bot1, 195) make a choice head
+INFO:root:(bot3, 376) make a bet 136
+INFO:root:(bot3, 376) make a choice head
+INFO:root:(bot5, 66) make a bet 46
+INFO:root:(bot5, 66) make a choice head
+INFO:root:(bot6, 30) make a bet 70
+INFO:root:(bot6, 30) make a choice tails
+INFO:root:(bot7, 1900) make a bet 1801
+INFO:root:(bot7, 1900) make a choice tails
+INFO:root:(bot8, 32) make a bet 3374
+INFO:root:(bot8, 32) make a choice tails
+INFO:root:(Michael, 6439) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 4798) wins 4603
+INFO:root:(bot3, 991) wins 615
+INFO:root:(bot5, 274) wins 208
+INFO:root:(Michael, 7797) wins 1358
+INFO:root:ROUND 25
+INFO:root:(bot0, 148) make a bet 124
+INFO:root:(bot0, 148) make a choice tails
+INFO:root:(bot1, 4572) make a bet 226
+INFO:root:(bot1, 4572) make a choice head
+INFO:root:(bot3, 24) make a bet 967
+INFO:root:(bot3, 24) make a choice tails
+INFO:root:(bot5, 167) make a bet 107
+INFO:root:(bot5, 167) make a choice tails
+INFO:root:(bot6, 2) make a bet 28
+INFO:root:(bot6, 2) make a choice tails
+INFO:root:(bot7, 345) make a bet 1555
+INFO:root:(bot7, 345) make a choice tails
+INFO:root:(bot8, 32) make a bet 0
+INFO:root:(bot8, 32) make a choice tails
+INFO:root:(Michael, 7497) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot0, 295) wins 147
+INFO:root:(bot3, 1174) wins 1150
+INFO:root:(bot5, 294) wins 127
+INFO:root:(bot6, 35) wins 33
+INFO:root:(bot7, 2194) wins 1849
+INFO:root:ROUND 26
+INFO:root:(bot0, 230) make a bet 65
+INFO:root:(bot0, 230) make a choice tails
+INFO:root:(bot1, 311) make a bet 4261
+INFO:root:(bot1, 311) make a choice head
+INFO:root:(bot3, 814) make a bet 360
+INFO:root:(bot3, 814) make a choice head
+INFO:root:(bot5, 68) make a bet 226
+INFO:root:(bot5, 68) make a choice head
+INFO:root:(bot6, 18) make a bet 17
+INFO:root:(bot6, 18) make a choice tails
+INFO:root:(bot7, 1154) make a bet 1040
+INFO:root:(bot7, 1154) make a choice tails
+INFO:root:(bot8, 15) make a bet 17
+INFO:root:(bot8, 15) make a choice tails
+INFO:root:(Michael, 7197) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 5515) wins 5204
+INFO:root:(bot3, 1254) wins 440
+INFO:root:(bot5, 344) wins 276
+INFO:root:(Michael, 7563) wins 366
+INFO:root:ROUND 27
+INFO:root:(bot0, 89) make a bet 141
+INFO:root:(bot0, 89) make a choice head
+INFO:root:(bot1, 2528) make a bet 2987
+INFO:root:(bot1, 2528) make a choice tails
+INFO:root:(bot3, 1237) make a bet 17
+INFO:root:(bot3, 1237) make a choice tails
+INFO:root:(bot5, 191) make a bet 153
+INFO:root:(bot5, 191) make a choice tails
+INFO:root:(bot6, 4) make a bet 14
+INFO:root:(bot6, 4) make a choice head
+INFO:root:(bot7, 186) make a bet 968
+INFO:root:(bot7, 186) make a choice tails
+INFO:root:(bot8, 8) make a bet 7
+INFO:root:(bot8, 8) make a choice tails
+INFO:root:(Michael, 7263) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 5844) wins 3316
+INFO:root:(bot3, 1256) wins 19
+INFO:root:(bot5, 361) wins 170
+INFO:root:(bot7, 1261) wins 1075
+INFO:root:(bot8, 16) wins 8
+INFO:root:ROUND 28
+INFO:root:(bot0, 52) make a bet 37
+INFO:root:(bot0, 52) make a choice head
+INFO:root:(bot1, 1619) make a bet 4225
+INFO:root:(bot1, 1619) make a choice head
+INFO:root:(bot3, 499) make a bet 757
+INFO:root:(bot3, 499) make a choice head
+INFO:root:(bot5, 177) make a bet 184
+INFO:root:(bot5, 177) make a choice tails
+INFO:root:(bot6, 4) make a bet 0
+INFO:root:(bot6, 4) make a choice head
+INFO:root:(bot7, 330) make a bet 931
+INFO:root:(bot7, 330) make a choice tails
+INFO:root:(bot8, 12) make a bet 4
+INFO:root:(bot8, 12) make a choice head
+INFO:root:(Michael, 6963) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot5, 1239) wins 1062
+INFO:root:(bot7, 5706) wins 5376
+INFO:root:ROUND 29
+INFO:root:(bot0, 2) make a bet 50
+INFO:root:(bot0, 2) make a choice tails
+INFO:root:(bot1, 799) make a bet 820
+INFO:root:(bot1, 799) make a choice tails
+INFO:root:(bot3, 197) make a bet 302
+INFO:root:(bot3, 197) make a choice head
+INFO:root:(bot5, 1008) make a bet 231
+INFO:root:(bot5, 1008) make a choice head
+INFO:root:(bot6, 2) make a bet 2
+INFO:root:(bot6, 2) make a choice head
+INFO:root:(bot7, 3982) make a bet 1724
+INFO:root:(bot7, 3982) make a choice tails
+INFO:root:(bot8, 0) make a bet 12
+INFO:root:(bot8, 0) make a choice head
+INFO:root:(Michael, 6663) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 1424) wins 1227
+INFO:root:(bot5, 1946) wins 938
+INFO:root:(bot6, 10) wins 8
+INFO:root:(bot8, 49) wins 49
+INFO:root:(Michael, 7882) wins 1219
+INFO:root:ROUND 30
+INFO:root:(bot0, 0) make a bet 2
+INFO:root:(bot0, 0) make a choice tails
+INFO:root:(bot1, 255) make a bet 544
+INFO:root:(bot1, 255) make a choice tails
+INFO:root:(bot3, 813) make a bet 611
+INFO:root:(bot3, 813) make a choice tails
+INFO:root:(bot5, 388) make a bet 1558
+INFO:root:(bot5, 388) make a choice head
+INFO:root:(bot6, 0) make a bet 10
+INFO:root:(bot6, 0) make a choice head
+INFO:root:(bot7, 2102) make a bet 1880
+INFO:root:(bot7, 2102) make a choice tails
+INFO:root:(bot8, 18) make a bet 31
+INFO:root:(bot8, 18) make a choice head
+INFO:root:(Michael, 7582) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot5, 4438) wins 4050
+INFO:root:(bot6, 26) wins 26
+INFO:root:(bot8, 99) wins 81
+INFO:root:(Michael, 8362) wins 780
+INFO:root:ROUND 31
+WARNING:root:(bot0, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(bot3, 174) make a bet 639
+INFO:root:(bot3, 174) make a choice head
+INFO:root:(bot5, 1049) make a bet 3389
+INFO:root:(bot5, 1049) make a choice tails
+INFO:root:(bot6, 10) make a bet 16
+INFO:root:(bot6, 10) make a choice head
+INFO:root:(bot7, 1727) make a bet 375
+INFO:root:(bot7, 1727) make a choice head
+INFO:root:(bot8, 29) make a bet 70
+INFO:root:(bot8, 29) make a choice head
+INFO:root:(Michael, 8062) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 993) wins 738
+INFO:root:(bot5, 5644) wins 4595
+INFO:root:ROUND 32
+INFO:root:(bot1, 432) make a bet 561
+INFO:root:(bot1, 432) make a choice tails
+INFO:root:(bot3, 23) make a bet 151
+INFO:root:(bot3, 23) make a choice tails
+INFO:root:(bot5, 4199) make a bet 1445
+INFO:root:(bot5, 4199) make a choice tails
+INFO:root:(bot6, 7) make a bet 3
+INFO:root:(bot6, 7) make a choice head
+INFO:root:(bot7, 364) make a bet 1363
+INFO:root:(bot7, 364) make a choice head
+INFO:root:(bot8, 17) make a bet 12
+INFO:root:(bot8, 17) make a choice tails
+INFO:root:(Michael, 7762) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot6, 14) wins 7
+INFO:root:(bot7, 3502) wins 3138
+INFO:root:(Michael, 8453) wins 691
+INFO:root:ROUND 33
+INFO:root:(bot1, 25) make a bet 407
+INFO:root:(bot1, 25) make a choice tails
+INFO:root:(bot3, 9) make a bet 14
+INFO:root:(bot3, 9) make a choice head
+INFO:root:(bot5, 546) make a bet 3653
+INFO:root:(bot5, 546) make a choice tails
+INFO:root:(bot6, 7) make a bet 7
+INFO:root:(bot6, 7) make a choice head
+INFO:root:(bot7, 435) make a bet 3067
+INFO:root:(bot7, 435) make a choice tails
+INFO:root:(bot8, 14) make a bet 3
+INFO:root:(bot8, 14) make a choice head
+INFO:root:(Michael, 8153) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 451) wins 426
+INFO:root:(bot5, 4365) wins 3819
+INFO:root:(bot7, 3641) wins 3206
+INFO:root:ROUND 34
+INFO:root:(bot1, 327) make a bet 124
+INFO:root:(bot1, 327) make a choice head
+INFO:root:(bot3, 4) make a bet 5
+INFO:root:(bot3, 4) make a choice tails
+INFO:root:(bot5, 1429) make a bet 2936
+INFO:root:(bot5, 1429) make a choice head
+INFO:root:(bot6, 0) make a bet 7
+INFO:root:(bot6, 0) make a choice tails
+INFO:root:(bot7, 2874) make a bet 767
+INFO:root:(bot7, 2874) make a choice tails
+INFO:root:(bot8, 5) make a bet 9
+INFO:root:(bot8, 5) make a choice tails
+INFO:root:(Michael, 7853) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 30) wins 26
+INFO:root:(bot6, 37) wins 37
+INFO:root:(bot7, 6911) wins 4037
+INFO:root:(bot8, 52) wins 47
+INFO:root:ROUND 35
+INFO:root:(bot1, 231) make a bet 96
+INFO:root:(bot1, 231) make a choice tails
+INFO:root:(bot3, 27) make a bet 3
+INFO:root:(bot3, 27) make a choice head
+INFO:root:(bot5, 515) make a bet 914
+INFO:root:(bot5, 515) make a choice tails
+INFO:root:(bot6, 4) make a bet 33
+INFO:root:(bot6, 4) make a choice tails
+INFO:root:(bot7, 4042) make a bet 2869
+INFO:root:(bot7, 4042) make a choice tails
+INFO:root:(bot8, 32) make a bet 20
+INFO:root:(bot8, 32) make a choice head
+INFO:root:(Michael, 7553) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 66) wins 39
+INFO:root:(bot8, 294) wins 262
+INFO:root:(Michael, 11486) wins 3933
+INFO:root:ROUND 36
+INFO:root:(bot1, 75) make a bet 156
+INFO:root:(bot1, 75) make a choice tails
+INFO:root:(bot3, 38) make a bet 28
+INFO:root:(bot3, 38) make a choice tails
+INFO:root:(bot5, 140) make a bet 375
+INFO:root:(bot5, 140) make a choice head
+INFO:root:(bot6, 3) make a bet 1
+INFO:root:(bot6, 3) make a choice head
+INFO:root:(bot7, 62) make a bet 3980
+INFO:root:(bot7, 62) make a choice head
+INFO:root:(bot8, 94) make a bet 200
+INFO:root:(bot8, 94) make a choice tails
+INFO:root:(Michael, 11186) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 2123) wins 2048
+INFO:root:(bot3, 406) wins 368
+INFO:root:(bot8, 2719) wins 2625
+INFO:root:ROUND 37
+INFO:root:(bot1, 2102) make a bet 21
+INFO:root:(bot1, 2102) make a choice tails
+INFO:root:(bot3, 312) make a bet 94
+INFO:root:(bot3, 312) make a choice head
+INFO:root:(bot5, 127) make a bet 13
+INFO:root:(bot5, 127) make a choice tails
+INFO:root:(bot6, 2) make a bet 1
+INFO:root:(bot6, 2) make a choice tails
+INFO:root:(bot7, 5) make a bet 57
+INFO:root:(bot7, 5) make a choice tails
+INFO:root:(bot8, 1228) make a bet 1491
+INFO:root:(bot8, 1228) make a choice head
+INFO:root:(Michael, 10886) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 2553) wins 451
+INFO:root:(bot5, 406) wins 279
+INFO:root:(bot6, 23) wins 21
+INFO:root:(bot7, 1230) wins 1225
+INFO:root:ROUND 38
+INFO:root:(bot1, 1666) make a bet 887
+INFO:root:(bot1, 1666) make a choice tails
+INFO:root:(bot3, 265) make a bet 47
+INFO:root:(bot3, 265) make a choice head
+INFO:root:(bot5, 62) make a bet 344
+INFO:root:(bot5, 62) make a choice tails
+INFO:root:(bot6, 15) make a bet 8
+INFO:root:(bot6, 15) make a choice tails
+INFO:root:(bot7, 1011) make a bet 219
+INFO:root:(bot7, 1011) make a choice head
+INFO:root:(bot8, 579) make a bet 649
+INFO:root:(bot8, 579) make a choice tails
+INFO:root:(Michael, 10586) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 469) wins 204
+INFO:root:(bot7, 1961) wins 950
+INFO:root:(Michael, 11887) wins 1301
+INFO:root:ROUND 39
+INFO:root:(bot1, 1487) make a bet 179
+INFO:root:(bot1, 1487) make a choice tails
+INFO:root:(bot3, 86) make a bet 383
+INFO:root:(bot3, 86) make a choice head
+INFO:root:(bot5, 43) make a bet 19
+INFO:root:(bot5, 43) make a choice head
+INFO:root:(bot6, 12) make a bet 3
+INFO:root:(bot6, 12) make a choice tails
+INFO:root:(bot7, 1361) make a bet 600
+INFO:root:(bot7, 1361) make a choice head
+INFO:root:(bot8, 17) make a bet 562
+INFO:root:(bot8, 17) make a choice tails
+INFO:root:(Michael, 11587) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 688) wins 602
+INFO:root:(bot5, 73) wins 30
+INFO:root:(bot7, 2304) wins 943
+INFO:root:(Michael, 12058) wins 471
+INFO:root:ROUND 40
+INFO:root:(bot1, 485) make a bet 1002
+INFO:root:(bot1, 485) make a choice head
+INFO:root:(bot3, 674) make a bet 14
+INFO:root:(bot3, 674) make a choice tails
+INFO:root:(bot5, 59) make a bet 14
+INFO:root:(bot5, 59) make a choice head
+INFO:root:(bot6, 0) make a bet 12
+INFO:root:(bot6, 0) make a choice tails
+INFO:root:(bot7, 620) make a bet 1684
+INFO:root:(bot7, 620) make a choice tails
+INFO:root:(bot8, 14) make a bet 3
+INFO:root:(bot8, 14) make a choice head
+INFO:root:(Michael, 11758) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 2786) wins 2301
+INFO:root:(bot5, 91) wins 32
+INFO:root:(bot8, 21) wins 7
+INFO:root:(Michael, 12447) wins 689
+INFO:root:ROUND 41
+INFO:root:(bot1, 2724) make a bet 62
+INFO:root:(bot1, 2724) make a choice head
+INFO:root:(bot3, 119) make a bet 555
+INFO:root:(bot3, 119) make a choice head
+INFO:root:(bot5, 52) make a bet 39
+INFO:root:(bot5, 52) make a choice tails
+WARNING:root:(bot6, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(bot8, 7) make a bet 14
+INFO:root:(bot8, 7) make a choice tails
+INFO:root:(Michael, 12147) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot5, 112) wins 60
+INFO:root:(bot7, 3193) wins 2573
+INFO:root:(bot8, 28) wins 21
+INFO:root:ROUND 42
+INFO:root:(bot1, 1280) make a bet 1444
+INFO:root:(bot1, 1280) make a choice tails
+INFO:root:(bot3, 93) make a bet 26
+INFO:root:(bot3, 93) make a choice head
+INFO:root:(bot5, 64) make a bet 48
+INFO:root:(bot5, 64) make a choice tails
+INFO:root:(bot7, 1433) make a bet 1760
+INFO:root:(bot7, 1433) make a choice head
+INFO:root:(bot8, 26) make a bet 2
+INFO:root:(bot8, 26) make a choice head
+INFO:root:(Michael, 11847) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 4745) wins 3465
+INFO:root:(bot5, 179) wins 115
+INFO:root:ROUND 43
+INFO:root:(bot1, 3152) make a bet 1593
+INFO:root:(bot1, 3152) make a choice tails
+INFO:root:(bot3, 33) make a bet 60
+INFO:root:(bot3, 33) make a choice head
+INFO:root:(bot5, 22) make a bet 157
+INFO:root:(bot5, 22) make a choice tails
+INFO:root:(bot7, 1433) make a bet 0
+INFO:root:(bot7, 1433) make a choice tails
+INFO:root:(bot8, 14) make a bet 12
+INFO:root:(bot8, 14) make a choice head
+INFO:root:(Michael, 11547) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 5084) wins 1932
+INFO:root:(bot5, 212) wins 190
+INFO:root:ROUND 44
+INFO:root:(bot1, 3641) make a bet 1443
+INFO:root:(bot1, 3641) make a choice head
+INFO:root:(bot3, 13) make a bet 20
+INFO:root:(bot3, 13) make a choice head
+INFO:root:(bot5, 84) make a bet 128
+INFO:root:(bot5, 84) make a choice tails
+INFO:root:(bot7, 501) make a bet 932
+INFO:root:(bot7, 501) make a choice head
+INFO:root:(bot8, 2) make a bet 12
+INFO:root:(bot8, 2) make a choice head
+INFO:root:(Michael, 11247) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 5152) wins 1511
+INFO:root:(bot3, 34) wins 21
+INFO:root:(bot7, 1477) wins 976
+INFO:root:(bot8, 15) wins 13
+INFO:root:(Michael, 11561) wins 314
+INFO:root:ROUND 45
+INFO:root:(bot1, 3551) make a bet 1601
+INFO:root:(bot1, 3551) make a choice tails
+INFO:root:(bot3, 3) make a bet 31
+INFO:root:(bot3, 3) make a choice tails
+INFO:root:(bot5, 24) make a bet 60
+INFO:root:(bot5, 24) make a choice tails
+INFO:root:(bot7, 841) make a bet 636
+INFO:root:(bot7, 841) make a choice tails
+INFO:root:(bot8, 8) make a bet 7
+INFO:root:(bot8, 8) make a choice head
+INFO:root:(Michael, 11261) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 5363) wins 1812
+INFO:root:(bot3, 38) wins 35
+INFO:root:(bot5, 92) wins 68
+INFO:root:(bot7, 1561) wins 720
+INFO:root:ROUND 46
+INFO:root:(bot1, 3452) make a bet 1911
+INFO:root:(bot1, 3452) make a choice head
+INFO:root:(bot3, 17) make a bet 21
+INFO:root:(bot3, 17) make a choice head
+INFO:root:(bot5, 51) make a bet 41
+INFO:root:(bot5, 51) make a choice tails
+INFO:root:(bot7, 806) make a bet 755
+INFO:root:(bot7, 806) make a choice tails
+INFO:root:(bot8, 2) make a bet 6
+INFO:root:(bot8, 2) make a choice head
+INFO:root:(Michael, 10961) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 6043) wins 2591
+INFO:root:(bot3, 45) wins 28
+INFO:root:(bot8, 10) wins 8
+INFO:root:(Michael, 11368) wins 407
+INFO:root:ROUND 47
+INFO:root:(bot1, 746) make a bet 5297
+INFO:root:(bot1, 746) make a choice tails
+INFO:root:(bot3, 37) make a bet 8
+INFO:root:(bot3, 37) make a choice tails
+INFO:root:(bot5, 2) make a bet 49
+INFO:root:(bot5, 2) make a choice tails
+INFO:root:(bot7, 462) make a bet 344
+INFO:root:(bot7, 462) make a choice head
+INFO:root:(bot8, 7) make a bet 3
+INFO:root:(bot8, 7) make a choice head
+INFO:root:(Michael, 11068) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot7, 3653) wins 3191
+INFO:root:(bot8, 35) wins 28
+INFO:root:(Michael, 13851) wins 2783
+INFO:root:ROUND 48
+INFO:root:(bot1, 491) make a bet 255
+INFO:root:(bot1, 491) make a choice tails
+INFO:root:(bot3, 10) make a bet 27
+INFO:root:(bot3, 10) make a choice head
+INFO:root:(bot5, 0) make a bet 2
+INFO:root:(bot5, 0) make a choice tails
+INFO:root:(bot7, 3523) make a bet 130
+INFO:root:(bot7, 3523) make a choice head
+INFO:root:(bot8, 15) make a bet 20
+INFO:root:(bot8, 15) make a choice tails
+INFO:root:(Michael, 13551) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 1167) wins 676
+INFO:root:(bot5, 5) wins 5
+INFO:root:(bot8, 68) wins 53
+INFO:root:ROUND 49
+INFO:root:(bot1, 585) make a bet 582
+INFO:root:(bot1, 585) make a choice head
+INFO:root:(bot3, 3) make a bet 7
+INFO:root:(bot3, 3) make a choice head
+INFO:root:(bot5, 0) make a bet 5
+INFO:root:(bot5, 0) make a choice head
+INFO:root:(bot7, 2084) make a bet 1439
+INFO:root:(bot7, 2084) make a choice head
+INFO:root:(bot8, 10) make a bet 58
+INFO:root:(bot8, 10) make a choice head
+INFO:root:(Michael, 13251) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 50
+INFO:root:(bot1, 456) make a bet 129
+INFO:root:(bot1, 456) make a choice tails
+INFO:root:(bot3, 0) make a bet 3
+INFO:root:(bot3, 0) make a choice tails
+WARNING:root:(bot5, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(bot8, 0) make a bet 10
+INFO:root:(bot8, 0) make a choice head
+INFO:root:(Michael, 12951) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 2294) wins 1838
+INFO:root:(bot3, 43) wins 43
+INFO:root:ROUND 51
+INFO:root:(bot1, 587) make a bet 1707
+INFO:root:(bot1, 587) make a choice tails
+INFO:root:(bot3, 43) make a bet 0
+INFO:root:(bot3, 43) make a choice tails
+INFO:root:(bot7, 968) make a bet 1116
+INFO:root:(bot7, 968) make a choice head
+WARNING:root:(bot8, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(Michael, 12651) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot7, 3429) wins 2461
+INFO:root:(Michael, 13313) wins 662
+INFO:root:ROUND 52
+INFO:root:(bot1, 500) make a bet 87
+INFO:root:(bot1, 500) make a choice head
+INFO:root:(bot3, 40) make a bet 3
+INFO:root:(bot3, 40) make a choice tails
+INFO:root:(bot7, 1223) make a bet 2206
+INFO:root:(bot7, 1223) make a choice tails
+INFO:root:(Michael, 13013) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 44) wins 4
+INFO:root:(bot7, 3815) wins 2592
+INFO:root:ROUND 53
+INFO:root:(bot1, 176) make a bet 324
+INFO:root:(bot1, 176) make a choice head
+INFO:root:(bot3, 31) make a bet 13
+INFO:root:(bot3, 31) make a choice tails
+INFO:root:(bot7, 3258) make a bet 557
+INFO:root:(bot7, 3258) make a choice head
+INFO:root:(Michael, 12713) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 1225) wins 1194
+INFO:root:ROUND 54
+INFO:root:(bot1, 71) make a bet 105
+INFO:root:(bot1, 71) make a choice head
+INFO:root:(bot3, 527) make a bet 698
+INFO:root:(bot3, 527) make a choice head
+INFO:root:(bot7, 2240) make a bet 1018
+INFO:root:(bot7, 2240) make a choice head
+INFO:root:(Michael, 12413) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 176) wins 105
+INFO:root:(bot3, 1225) wins 698
+INFO:root:(bot7, 3258) wins 1018
+INFO:root:(Michael, 12713) wins 300
+INFO:root:ROUND 55
+INFO:root:(bot1, 53) make a bet 123
+INFO:root:(bot1, 53) make a choice tails
+INFO:root:(bot3, 778) make a bet 447
+INFO:root:(bot3, 778) make a choice tails
+INFO:root:(bot7, 2534) make a bet 724
+INFO:root:(bot7, 2534) make a choice tails
+INFO:root:(Michael, 12413) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(Michael, 14007) wins 1594
+INFO:root:ROUND 56
+INFO:root:(bot1, 25) make a bet 28
+INFO:root:(bot1, 25) make a choice head
+INFO:root:(bot3, 119) make a bet 659
+INFO:root:(bot3, 119) make a choice tails
+INFO:root:(bot7, 336) make a bet 2198
+INFO:root:(bot7, 336) make a choice tails
+INFO:root:(Michael, 13707) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 297) wins 272
+INFO:root:(Michael, 16620) wins 2913
+INFO:root:ROUND 57
+INFO:root:(bot1, 74) make a bet 223
+INFO:root:(bot1, 74) make a choice tails
+INFO:root:(bot3, 91) make a bet 28
+INFO:root:(bot3, 91) make a choice head
+INFO:root:(bot7, 4) make a bet 332
+INFO:root:(bot7, 4) make a choice head
+INFO:root:(Michael, 16320) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 128) wins 37
+INFO:root:(bot7, 448) wins 444
+INFO:root:(Michael, 16721) wins 401
+INFO:root:ROUND 58
+INFO:root:(bot1, 35) make a bet 39
+INFO:root:(bot1, 35) make a choice tails
+INFO:root:(bot3, 126) make a bet 2
+INFO:root:(bot3, 126) make a choice tails
+INFO:root:(bot7, 183) make a bet 265
+INFO:root:(bot7, 183) make a choice head
+INFO:root:(Michael, 16421) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 611) wins 576
+INFO:root:(bot3, 156) wins 30
+INFO:root:ROUND 59
+INFO:root:(bot1, 325) make a bet 286
+INFO:root:(bot1, 325) make a choice head
+INFO:root:(bot3, 119) make a bet 37
+INFO:root:(bot3, 119) make a choice tails
+INFO:root:(bot7, 1) make a bet 182
+INFO:root:(bot7, 1) make a choice tails
+INFO:root:(Michael, 16121) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 255) wins 136
+INFO:root:(bot7, 670) wins 669
+INFO:root:ROUND 60
+INFO:root:(bot1, 74) make a bet 251
+INFO:root:(bot1, 74) make a choice head
+INFO:root:(bot3, 55) make a bet 200
+INFO:root:(bot3, 55) make a choice head
+INFO:root:(bot7, 443) make a bet 227
+INFO:root:(bot7, 443) make a choice tails
+INFO:root:(Michael, 15821) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 401) wins 327
+INFO:root:(bot3, 315) wins 260
+INFO:root:(Michael, 16212) wins 391
+INFO:root:ROUND 61
+INFO:root:(bot1, 274) make a bet 127
+INFO:root:(bot1, 274) make a choice head
+INFO:root:(bot3, 224) make a bet 91
+INFO:root:(bot3, 224) make a choice head
+INFO:root:(bot7, 293) make a bet 150
+INFO:root:(bot7, 293) make a choice head
+INFO:root:(Michael, 15912) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 62
+INFO:root:(bot1, 200) make a bet 74
+INFO:root:(bot1, 200) make a choice tails
+INFO:root:(bot3, 50) make a bet 174
+INFO:root:(bot3, 50) make a choice tails
+INFO:root:(bot7, 253) make a bet 40
+INFO:root:(bot7, 253) make a choice tails
+INFO:root:(Michael, 15612) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 351) wins 151
+INFO:root:(bot3, 405) wins 355
+INFO:root:(bot7, 335) wins 82
+INFO:root:ROUND 63
+INFO:root:(bot1, 127) make a bet 224
+INFO:root:(bot1, 127) make a choice head
+INFO:root:(bot3, 325) make a bet 80
+INFO:root:(bot3, 325) make a choice tails
+INFO:root:(bot7, 227) make a bet 108
+INFO:root:(bot7, 227) make a choice head
+INFO:root:(Michael, 15312) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 1037) wins 712
+INFO:root:ROUND 64
+INFO:root:(bot1, 75) make a bet 52
+INFO:root:(bot1, 75) make a choice head
+INFO:root:(bot3, 536) make a bet 501
+INFO:root:(bot3, 536) make a choice tails
+INFO:root:(bot7, 60) make a bet 167
+INFO:root:(bot7, 60) make a choice head
+INFO:root:(Michael, 15012) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 177) wins 102
+INFO:root:(bot7, 388) wins 328
+INFO:root:(Michael, 15602) wins 590
+INFO:root:ROUND 65
+INFO:root:(bot1, 155) make a bet 22
+INFO:root:(bot1, 155) make a choice tails
+INFO:root:(bot3, 355) make a bet 181
+INFO:root:(bot3, 355) make a choice tails
+INFO:root:(bot7, 185) make a bet 203
+INFO:root:(bot7, 185) make a choice tails
+INFO:root:(Michael, 15302) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(Michael, 16008) wins 706
+INFO:root:ROUND 66
+INFO:root:(bot1, 122) make a bet 33
+INFO:root:(bot1, 122) make a choice tails
+INFO:root:(bot3, 9) make a bet 346
+INFO:root:(bot3, 9) make a choice tails
+INFO:root:(bot7, 158) make a bet 27
+INFO:root:(bot7, 158) make a choice head
+INFO:root:(Michael, 15708) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 183) wins 61
+INFO:root:(bot3, 654) wins 645
+INFO:root:ROUND 67
+INFO:root:(bot1, 73) make a bet 110
+INFO:root:(bot1, 73) make a choice tails
+INFO:root:(bot3, 114) make a bet 540
+INFO:root:(bot3, 114) make a choice tails
+INFO:root:(bot7, 20) make a bet 138
+INFO:root:(bot7, 20) make a choice head
+INFO:root:(Michael, 15408) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot7, 363) wins 343
+INFO:root:(Michael, 16153) wins 745
+INFO:root:ROUND 68
+INFO:root:(bot1, 12) make a bet 61
+INFO:root:(bot1, 12) make a choice tails
+INFO:root:(bot3, 21) make a bet 93
+INFO:root:(bot3, 21) make a choice head
+INFO:root:(bot7, 220) make a bet 143
+INFO:root:(bot7, 220) make a choice head
+INFO:root:(Michael, 15853) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot1, 609) wins 597
+INFO:root:ROUND 69
+INFO:root:(bot1, 301) make a bet 308
+INFO:root:(bot1, 301) make a choice tails
+INFO:root:(bot3, 8) make a bet 13
+INFO:root:(bot3, 8) make a choice tails
+INFO:root:(bot7, 196) make a bet 24
+INFO:root:(bot7, 196) make a choice tails
+INFO:root:(Michael, 15553) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(Michael, 16198) wins 645
+INFO:root:ROUND 70
+INFO:root:(bot1, 219) make a bet 82
+INFO:root:(bot1, 219) make a choice head
+INFO:root:(bot3, 0) make a bet 8
+INFO:root:(bot3, 0) make a choice head
+INFO:root:(bot7, 61) make a bet 135
+INFO:root:(bot7, 61) make a choice tails
+INFO:root:(Michael, 15898) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 329) wins 110
+INFO:root:(bot3, 11) wins 11
+INFO:root:(Michael, 16302) wins 404
+INFO:root:ROUND 71
+INFO:root:(bot1, 116) make a bet 213
+INFO:root:(bot1, 116) make a choice head
+INFO:root:(bot3, 11) make a bet 0
+INFO:root:(bot3, 11) make a choice tails
+INFO:root:(bot7, 6) make a bet 55
+INFO:root:(bot7, 6) make a choice tails
+INFO:root:(Michael, 16002) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot7, 574) wins 568
+INFO:root:ROUND 72
+INFO:root:(bot1, 68) make a bet 48
+INFO:root:(bot1, 68) make a choice head
+INFO:root:(bot3, 10) make a bet 1
+INFO:root:(bot3, 10) make a choice tails
+INFO:root:(bot7, 412) make a bet 162
+INFO:root:(bot7, 412) make a choice tails
+INFO:root:(Michael, 15702) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot1, 138) wins 70
+INFO:root:(Michael, 16143) wins 441
+INFO:root:ROUND 73
+INFO:root:(bot1, 23) make a bet 115
+INFO:root:(bot1, 23) make a choice head
+INFO:root:(bot3, 5) make a bet 5
+INFO:root:(bot3, 5) make a choice tails
+INFO:root:(bot7, 185) make a bet 227
+INFO:root:(bot7, 185) make a choice head
+INFO:root:(Michael, 15843) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 652) wins 647
+INFO:root:ROUND 74
+INFO:root:(bot1, 18) make a bet 5
+INFO:root:(bot1, 18) make a choice tails
+INFO:root:(bot3, 444) make a bet 208
+INFO:root:(bot3, 444) make a choice head
+INFO:root:(bot7, 180) make a bet 5
+INFO:root:(bot7, 180) make a choice tails
+INFO:root:(Michael, 15543) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 656) wins 212
+INFO:root:(Michael, 15849) wins 306
+INFO:root:ROUND 75
+INFO:root:(bot1, 7) make a bet 11
+INFO:root:(bot1, 7) make a choice head
+INFO:root:(bot3, 417) make a bet 239
+INFO:root:(bot3, 417) make a choice tails
+INFO:root:(bot7, 66) make a bet 114
+INFO:root:(bot7, 66) make a choice tails
+INFO:root:(Michael, 15549) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 867) wins 450
+INFO:root:(bot7, 280) wins 214
+INFO:root:ROUND 76
+INFO:root:(bot1, 1) make a bet 6
+INFO:root:(bot1, 1) make a choice head
+INFO:root:(bot3, 700) make a bet 167
+INFO:root:(bot3, 700) make a choice tails
+INFO:root:(bot7, 2) make a bet 278
+INFO:root:(bot7, 2) make a choice tails
+INFO:root:(Michael, 15249) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 982) wins 282
+INFO:root:(bot7, 471) wins 469
+INFO:root:ROUND 77
+INFO:root:(bot1, 0) make a bet 1
+INFO:root:(bot1, 0) make a choice head
+INFO:root:(bot3, 403) make a bet 579
+INFO:root:(bot3, 403) make a choice tails
+INFO:root:(bot7, 49) make a bet 422
+INFO:root:(bot7, 49) make a choice tails
+INFO:root:(Michael, 14949) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 1156) wins 753
+INFO:root:(bot7, 598) wins 549
+INFO:root:ROUND 78
+WARNING:root:(bot1, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(bot7, 193) make a bet 405
+INFO:root:(bot7, 193) make a choice tails
+INFO:root:(Michael, 14649) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(Michael, 15933) wins 1284
+INFO:root:ROUND 79
+INFO:root:(bot3, 891) make a bet 265
+INFO:root:(bot3, 891) make a choice tails
+INFO:root:(bot7, 192) make a bet 1
+INFO:root:(bot7, 192) make a choice tails
+INFO:root:(Michael, 15633) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(Michael, 16199) wins 566
+INFO:root:ROUND 80
+INFO:root:(bot3, 371) make a bet 520
+INFO:root:(bot3, 371) make a choice head
+INFO:root:(bot7, 61) make a bet 131
+INFO:root:(bot7, 61) make a choice tails
+INFO:root:(Michael, 15899) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 974) wins 603
+INFO:root:(Michael, 16247) wins 348
+INFO:root:ROUND 81
+INFO:root:(bot3, 593) make a bet 381
+INFO:root:(bot3, 593) make a choice head
+INFO:root:(bot7, 43) make a bet 18
+INFO:root:(bot7, 43) make a choice head
+INFO:root:(Michael, 15947) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 974) wins 381
+INFO:root:(bot7, 61) wins 18
+INFO:root:(Michael, 16247) wins 300
+INFO:root:ROUND 82
+INFO:root:(bot3, 695) make a bet 279
+INFO:root:(bot3, 695) make a choice tails
+INFO:root:(bot7, 32) make a bet 29
+INFO:root:(bot7, 32) make a choice tails
+INFO:root:(Michael, 15947) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 1246) wins 551
+INFO:root:(bot7, 89) wins 57
+INFO:root:ROUND 83
+INFO:root:(bot3, 964) make a bet 282
+INFO:root:(bot3, 964) make a choice tails
+INFO:root:(bot7, 32) make a bet 57
+INFO:root:(bot7, 32) make a choice tails
+INFO:root:(Michael, 15647) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 1496) wins 532
+INFO:root:(bot7, 139) wins 107
+INFO:root:ROUND 84
+INFO:root:(bot3, 131) make a bet 1365
+INFO:root:(bot3, 131) make a choice head
+INFO:root:(bot7, 59) make a bet 80
+INFO:root:(bot7, 59) make a choice tails
+INFO:root:(Michael, 15347) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 1562) wins 1431
+INFO:root:(Michael, 15661) wins 314
+INFO:root:ROUND 85
+INFO:root:(bot3, 137) make a bet 1425
+INFO:root:(bot3, 137) make a choice tails
+INFO:root:(bot7, 52) make a bet 7
+INFO:root:(bot7, 52) make a choice tails
+INFO:root:(Michael, 15361) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:(bot3, 1861) wins 1724
+INFO:root:(bot7, 60) wins 8
+INFO:root:ROUND 86
+INFO:root:(bot3, 431) make a bet 1430
+INFO:root:(bot3, 431) make a choice head
+INFO:root:(bot7, 0) make a bet 60
+INFO:root:(bot7, 0) make a choice head
+INFO:root:(Michael, 15061) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 87
+INFO:root:(bot3, 169) make a bet 262
+INFO:root:(bot3, 169) make a choice head
+WARNING:root:(bot7, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(Michael, 14761) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 88
+INFO:root:(bot3, 44) make a bet 125
+INFO:root:(bot3, 44) make a choice head
+INFO:root:(Michael, 14461) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 89
+INFO:root:(bot3, 44) make a bet 0
+INFO:root:(bot3, 44) make a choice tails
+INFO:root:(Michael, 14161) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 90
+INFO:root:(bot3, 21) make a bet 23
+INFO:root:(bot3, 21) make a choice head
+INFO:root:(Michael, 13861) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 44) wins 23
+INFO:root:(Michael, 14161) wins 300
+INFO:root:ROUND 91
+INFO:root:(bot3, 19) make a bet 25
+INFO:root:(bot3, 19) make a choice head
+INFO:root:(Michael, 13861) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 92
+INFO:root:(bot3, 9) make a bet 10
+INFO:root:(bot3, 9) make a choice head
+INFO:root:(Michael, 13561) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(bot3, 19) wins 10
+INFO:root:(Michael, 13861) wins 300
+INFO:root:ROUND 93
+INFO:root:(bot3, 2) make a bet 17
+INFO:root:(bot3, 2) make a choice head
+INFO:root:(Michael, 13561) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 94
+INFO:root:(bot3, 1) make a bet 1
+INFO:root:(bot3, 1) make a choice head
+INFO:root:(Michael, 13261) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 95
+INFO:root:(bot3, 1) make a bet 0
+INFO:root:(bot3, 1) make a choice head
+INFO:root:(Michael, 12961) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 96
+INFO:root:(bot3, 1) make a bet 0
+INFO:root:(bot3, 1) make a choice tails
+INFO:root:(Michael, 12661) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(Michael, 12961) wins 300
+INFO:root:ROUND 97
+INFO:root:(bot3, 0) make a bet 1
+INFO:root:(bot3, 0) make a choice head
+INFO:root:(Michael, 12661) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS tails
+INFO:root:ROUND 98
+WARNING:root:(bot3, 0) ВЫБЫВАЕТ. Закончились очки.
+INFO:root:(Michael, 12361) makes bet 300 on head
+INFO:root:COIN FLIPS AND RESULT IS head
+INFO:root:(Michael, 12661) wins 300
+WARNING:root:(Michael, 12661) WON
